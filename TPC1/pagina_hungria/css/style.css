@@ -1,0 +1,78 @@
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Open Sans', sans-serif;
+}
+
+p{
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+  margin:0;
+  background-color: whitesmoke;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 18px 48px;/* 14px 16px;*/
+  text-decoration: none;
+  /* width: 150px; */
+}
+
+li a.activeFlag:hover {
+  background: url("/1tpc/imgs/bandeira_hungria.png") no-repeat right;
+  color: black;
+  background-size:cover;
+
+}
+
+.centerImg { 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.geral{
+  margin-top: 50px; 
+  padding: 20px;
+  table-layout: fixed;
+  text-align: justify;
+  text-align-last: center;
+}
+
+.jumptarget::before {
+  content:"";
+  display:block;
+  height:80px;  
+  margin: -65px 0 0;  
+}
+
+table.center{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.imgEqSize{
+  width: 500px;
+  height: 400px;
+}
+
+html{
+  scroll-behavior:smooth;
+}

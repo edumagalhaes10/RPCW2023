@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifesto>
+    <meta>
+        <título>RPCW - TPC1</título>
+        <data>2023-02-19</data>
+        <autor>
+            <nome>Eduardo Costa de Magalhães</nome>
+            <id>PG50352</id>
+            <gitlink>https://github.com/edumagalhaes10/RPCW2023</gitlink>
+        </autor>
+        <uc>RPCW</uc>
+    </meta>
+    <resumo>
+        <p>A primeira parte deste TPC, consistia em completar o mapa virtual desenvolvido na aula prática com as ligações de cada cidade</p>
+        <p>A segunda parte do TPC consistia em desenvolver uma página web cujo tópico era uma palavra começada pela letra H. O tópico escolhido foi a palavra: <b>Hungria</b></p>
+    </resumo>
+    <resultados>
+        <resultado path="/mapa_virtual/mapa.py">Gerador automático em python do mapa virtual</resultado>
+        <resultado path="/mapa_virtual/mapa.json">Dataset json que contém as cidades e ligações do mapa virtual</resultado>
+        <resultado path="/mapa_virtual/mapa.html">Ficheiro HTML resultado</resultado>
+        <resultado path="/pagina_hungria/css/style.css">Ficheiro css para customização da página</resultado>
+        <resultado path="/pagina_hungria/html/hungria.html">Página HTML acerca do tópico escolhido: Hungria</resultado>
+        <resultado path="/pagina_hungria/css/">Pasta que contém imagens utilizadas pelo ficheiro HTML</resultado>
+    </resultados>
+</manifesto>
