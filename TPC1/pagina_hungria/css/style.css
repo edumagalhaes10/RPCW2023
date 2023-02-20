@@ -36,7 +36,7 @@ li a {
 }
 
 li a.activeFlag:hover {
-  background: url("/1tpc/imgs/bandeira_hungria.png") no-repeat right;
+  background: url("../imgs/bandeira_hungria.png") no-repeat right;
   color: black;
   background-size:cover;
 
