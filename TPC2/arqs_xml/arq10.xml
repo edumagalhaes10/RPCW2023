@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ARQELEM>
+<TIPO ASSUNTO="arqueossitio"/>
+<IDENTI> Monte de Lousado </IDENTI>
+<DESCRI>
+<LIGA TERMO="povoado fortificado"> Povoado fortificado </LIGA>
+</DESCRI>
+<CRONO> Proto-HistÃÂ³ria / RomanizaÃÂ§ÃÂ£o</CRONO>
+<LUGAR> Monte do Lousado</LUGAR>
+<FREGUE> Alheira </FREGUE>
+<CONCEL> Barcelos </CONCEL>
+<CODADM> 030207 </CODADM>
+<LATITU> 517,1 </LATITU>
+<LONGIT> 165,5 </LONGIT>
+<ALTITU> 300m </ALTITU>
+<ACESSO>O acesso pode fazer-se a partir de Alheira.</ACESSO>
+<QUADRO>O Monte de Lousado situa-se nos limites das freguesias de Alheira e de
+Panque, ambas do concelho de Barcelos. Corresponde ao extremo NE de uma
+pequena crista montanhosa, que se dispÃÂµe no sentido NE/SO, paralela ao rio
+Neiva. A parte alta desta crista separa as bacias dos rios CÃÂ¡vado e Neiva.</QUADRO>
+<TRAARQ>NÃÂ£o sÃÂ£o conhecidos trabalhos arqueolÃÂ³gicos no local. </TRAARQ>
+<DESARQ>O povoado ÃÂ© conhecido e referido na bibliografia, pelo menos, a partir do
+sÃÂ©culo XVIII. ÃÂ citado por Contador de Argote e por L. Cardoso, no
+"DicionÃÂ¡rio GeogrÃÂ¡fico". Apesar dessas referÃÂªncias e da monumentalidade dos
+seus vestÃÂ­gios nunca foi objecto de trabalhos arqueolÃÂ³gicos. A maioria dos
+vestÃÂ­gios concentra-se na parte mais alta do monte: aÃÂ­ sÃÂ£o visÃÂ­veis restos
+de muralhas e alicerces de construÃÂ§ÃÂµes habitacionais. Na superfÃÂ­cie do
+povoado recolhem-se fragmentos de <LIGA TERMO="cerÃÂ¢mica indÃÂ­gena"> cerÃÂ¢mica
+indÃÂ­gena</LIGA> de fabrico <LIGA TERMO="micÃÂ¡ceo"> micÃÂ¡ceo</LIGA> e de
+cerÃÂ¢mica romana.</DESARQ>
+<INTERP>
+<LIGA TERMO="povoado fortificado"> Povoado fortificado</LIGA>
+romanizado.</INTERP>
+<BIBLIO>: FONSECA, T. (1948). O concelho de Barcelos AquÃÂ©m e AlÃÂ©m CÃÂ¡vado,
+Barcelos, 2 Vol., pp. 13; 65-66. </BIBLIO>
+<BIBLIO>MARTINS, M. (1990). O Povoamento Proto-HistÃÂ³rico e a RomanizaÃÂ§ÃÂ£o da Bacia do
+MÃÂ©dio CÃÂ¡vado, Cadernos de Arqueologia - Monografias, 5, Universidade do
+Minho, Braga, pp. 73. </BIBLIO>
+<AUTOR> Manuela Martins </AUTOR>
+<DATA>04-Fev-1998</DATA>
+</ARQELEM>
