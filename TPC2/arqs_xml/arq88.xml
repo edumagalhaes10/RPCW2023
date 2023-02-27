@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<ARQELEM>
-<TIPO ASSUNTO="arqueossitio"/>
-<IDENTI> Lamas de Mouro </IDENTI>
-<DESCRI> Ponte </DESCRI>
-<CRONO> Idade MÃÂ©dia</CRONO>
-<LUGAR> Lamas de Mouro </LUGAR>
-<FREGUE> Lamas de Mouro </FREGUE>
-<CONCEL> MelgaÃÂ§o </CONCEL>
-<CODADM> 160309 </CODADM>
-<LATITU> 563,2 </LATITU>
-<LONGIT> 194,7 </LONGIT>
-<ALTITU> 872m </ALTITU>
-<ACESSO>O acesso ÃÂ  ponte faz-se por estrada municipal a partir da estrada EN.202,
-que liga MelgaÃÂ§o a Castro Laboreiro. A ponte fica ÃÂ  margem desta estrada,
-lado Sul, cerca de 2 km antes da povoaÃÂ§ÃÂ£o de Lamas de Mouro. O monumento nÃÂ£o
-estÃÂ¡ sinalizado.</ACESSO>
-<DESARQ>Tardo-medieval, a ponte, que se levanta na chÃÂ£ de Lamas sobre o troÃÂ§o
-inicial do rio de Mouro, dando passagem ÃÂ  antiga via carreteira que de Lamas
-de Mouro levava ÃÂ  ribeira-Minho por Parada Monte e Gave. ÃÂ de um sÃÂ³<LIGA TERMO="arco"> arco</LIGA>de volta perfeita, bem alicerÃÂ§ado nas margens
-granÃÂ­ticas atravÃÂ©s de paramentos de <LIGA TERMO="aparelho"> aparelho</LIGA>
-rude em mamposteria de calhaus e blocos granÃÂ­ticos mal afeiÃÂ§oados. O<LIGA TERMO="arco"> arco</LIGA>apresenta um <LIGA TERMO="aparelho">aparelho</LIGA> cuidado com <LIGA TERMO="aduela"> aduelas</LIGA> de
-modulaÃÂ§ÃÂ£o regular, algumas das quais ostentam no intradorso siglas de <LIGA TERMO="canteiro"> canteiro</LIGA>. O piso do tabuleiro, com menos de 3
-metros de largura, assenta ao centro da ponte no extradorso das <LIGA TERMO="aduela"> aduelas</LIGA> do arco, acentuando a sua elevaÃÂ§ÃÂ£o em
-cavalete, reforÃÂ§ada ainda por sÃÂ³ conservar guardas pÃÂ©treas nesse tramo.
-Vencendo um<LIGA TERMO="triedro"> triedro</LIGA>com cerca de 4 metros de
+<arqelem>
+<tipo assunto="arqueossitio"></tipo>
+<identi> Lamas de Mouro </identi>
+<descri> Ponte </descri>
+<crono> Idade Média</crono>
+<lugar> Lamas de Mouro </lugar>
+<fregue> Lamas de Mouro </fregue>
+<concel> Melgaço </concel>
+<codadm> 160309 </codadm>
+<latitu> 563,2 </latitu>
+<longit> 194,7 </longit>
+<altitu> 872m </altitu>
+<acesso>O acesso à ponte faz-se por estrada municipal a partir da estrada EN.202,
+que liga Melgaço a Castro Laboreiro. A ponte fica à margem desta estrada,
+lado Sul, cerca de 2 km antes da povoação de Lamas de Mouro. O monumento não
+está sinalizado.</acesso>
+<desarq>Tardo-medieval, a ponte, que se levanta na chã de Lamas sobre o troço
+inicial do rio de Mouro, dando passagem à antiga via carreteira que de Lamas
+de Mouro levava à ribeira-Minho por Parada Monte e Gave. É de um só<liga termo="arco"> arco</liga>de volta perfeita, bem alicerçado nas margens
+graníticas através de paramentos de <liga termo="aparelho"> aparelho</liga>
+rude em mamposteria de calhaus e blocos graníticos mal afeiçoados. O<liga termo="arco"> arco</liga>apresenta um <liga termo="aparelho">aparelho</liga> cuidado com <liga termo="aduela"> aduelas</liga> de
+modulação regular, algumas das quais ostentam no intradorso siglas de <liga termo="canteiro"> canteiro</liga>. O piso do tabuleiro, com menos de 3
+metros de largura, assenta ao centro da ponte no extradorso das <liga termo="aduela"> aduelas</liga> do arco, acentuando a sua elevação em
+cavalete, reforçada ainda por só conservar guardas pétreas nesse tramo.
+Vencendo um<liga termo="triedro"> triedro</liga>com cerca de 4 metros de
 comprimento e mais de 2,5 metros de altura, esta ponte apresenta
-caracterÃÂ­sticas construtivas e uma estÃÂ©tica que se enquadram bem nos modelos
-medievais.</DESARQ>
-<INTERP>Ponte de fundaÃÂ§ÃÂ£o medieval da segunda metade do sÃÂ©c. XIII ? </INTERP>
-<INTERE>Embora bem conservada e apesar de interessarem ao estudo da difusÃÂ£o da
-viaÃÂ§ÃÂ£o medieval, os elemento descrito nÃÂ£o tem, no contexto regional, grande
-valor patrimonial nem revestem particular significado histÃÂ³rico. Contudo,
-porque Lamas de Mouro ÃÂ© uma zona de referÃÂªncia turÃÂ­stica (porta de entrada
-no Parque Nacional da Peneda-GerÃÂªs, com centro de interpretaÃÂ§ÃÂ£o e parque de
-campismo), oferecendo simultaneamente um agradÃÂ¡vel enquadramento
-paisagÃÂ­stico, particularmente sugestivo na ponte, este monumento adquire
-interesse e justifica a sua visita.</INTERE>
-<BIBLIO>ALMEIDA, C.A.F.(1978a) Arquitectura RomÃÂ¢nica de Entre Douro e Minho, Tese de
+características construtivas e uma estética que se enquadram bem nos modelos
+medievais.</desarq>
+<interp>Ponte de fundação medieval da segunda metade do séc. XIII ? </interp>
+<intere>Embora bem conservada e apesar de interessarem ao estudo da difusão da
+viação medieval, os elemento descrito não tem, no contexto regional, grande
+valor patrimonial nem revestem particular significado histórico. Contudo,
+porque Lamas de Mouro é uma zona de referência turística (porta de entrada
+no Parque Nacional da Peneda-Gerês, com centro de interpretação e parque de
+campismo), oferecendo simultaneamente um agradável enquadramento
+paisagístico, particularmente sugestivo na ponte, este monumento adquire
+interesse e justifica a sua visita.</intere>
+<biblio>ALMEIDA, C.A.F.(1978a) Arquitectura Românica de Entre Douro e Minho, Tese de
 Doutoramento (policopiada), Faculdade de Letras da Universidade do Porto,
-Porto, 1978. </BIBLIO>
-<AUTOR> Luis Fontes </AUTOR>
-<DATA>04-FEV-1998</DATA>
-</ARQELEM>
+Porto, 1978. </biblio>
+<autor> Luis Fontes </autor>
+<data>04-FEV-1998</data>
+</arqelem>

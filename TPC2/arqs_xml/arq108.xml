@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<ARQELEM>
-<TIPO ASSUNTO="arqueossitio"/>
-<IDENTI> Senhora da Natividade; Senhora de Galegos </IDENTI>
-<DESCRI> Capela; <LIGA TERMO="necrÃÂ³pole"> necrÃÂ³pole</LIGA>
-</DESCRI>
-<CRONO>Idade MÃÂ©dia</CRONO>
-<LUGAR> Senhora da Natividade; Senhora de Galegos </LUGAR>
-<FREGUE> Serraquinhos </FREGUE>
-<CONCEL> Montalegre </CONCEL>
-<CODADM> 170629 </CODADM>
-<LATITU> 535,3 </LATITU>
-<LONGIT> 236,1 </LONGIT>
-<ALTITU> 975m </ALTITU>
-<ACESSO>Cerca de 1,4 km para Norte da aldeia de CortiÃÂ§o. O acesso, nÃÂ£o muito fÃÂ¡cil,
-faz-se por um estradÃÂ£o de terra batida, em mau estado, a partir da aldeia de
-CortiÃÂ§o. Esta ÃÂ© servida por estrada municipal alcatroada que liga
-directamente ÃÂ  EN 103. O monumento nÃÂ£o estÃÂ¡ sinalizado.</ACESSO>
-<DESARQ>Cerca de 30 metros para Norte da capela, mal visÃÂ­veis entre o denso giestal
-que cobre o terreno, existem trÃÂªs sepulturas escavadas na rocha,
-antropomÃÂ³rficas, orientadas no sentido E-O sem grande precisÃÂ£o, com cabeÃÂ§a
-para poente, de acordo com os cÃÂ¢nones cristÃÂ£os. Nos terrenos a Norte e Oeste
-da capela encontram-se fragmentos de cerÃÂ¢mica comum, identificando-se ainda
-restos de construÃÂ§ÃÂµes com abundante pedra afeiÃÂ§oada dispersa. Com base
-nestes indÃÂ­cios pode propor-se que aqui se localizaria a <LIGA TERMO="villa"> villa</LIGA> de Gallecos, referenciada nas InquiriÃÂ§ÃÂµes de
-Afonso III, entÃÂ£o ainda pertencente ÃÂ  freguesia de Cervos, com cuja ocupaÃÂ§ÃÂ£o
-se deverÃÂ£o relacionar as sepulturas descritas, implantadas nas imediaÃÂ§ÃÂµes da
-capela, e que poderÃÂ£o ser apenas parte de uma <LIGA TERMO="necrÃÂ³pole">necrÃÂ³pole</LIGA>, tipologicamente datÃÂ¡vel dos sÃÂ©culos X-XIII. Nesta
-perspectiva poderÃÂ¡ aceitar-se que a capela da Senhora da Natividade ou
-Senhora de Galegos date jÃÂ¡ dos sÃÂ©culos centrais da Idade MÃÂ©dia, servindo
-nessa ÃÂ©poca, senÃÂ£o como igreja paroquial, pelo menos como templo local,
+<arqelem>
+<tipo assunto="arqueossitio"></tipo>
+<identi> Senhora da Natividade; Senhora de Galegos </identi>
+<descri> Capela; <liga termo="necrópole"> necrópole</liga>
+</descri>
+<crono>Idade Média</crono>
+<lugar> Senhora da Natividade; Senhora de Galegos </lugar>
+<fregue> Serraquinhos </fregue>
+<concel> Montalegre </concel>
+<codadm> 170629 </codadm>
+<latitu> 535,3 </latitu>
+<longit> 236,1 </longit>
+<altitu> 975m </altitu>
+<acesso>Cerca de 1,4 km para Norte da aldeia de Cortiço. O acesso, não muito fácil,
+faz-se por um estradão de terra batida, em mau estado, a partir da aldeia de
+Cortiço. Esta é servida por estrada municipal alcatroada que liga
+directamente à EN 103. O monumento não está sinalizado.</acesso>
+<desarq>Cerca de 30 metros para Norte da capela, mal visíveis entre o denso giestal
+que cobre o terreno, existem três sepulturas escavadas na rocha,
+antropomórficas, orientadas no sentido E-O sem grande precisão, com cabeça
+para poente, de acordo com os cânones cristãos. Nos terrenos a Norte e Oeste
+da capela encontram-se fragmentos de cerâmica comum, identificando-se ainda
+restos de construções com abundante pedra afeiçoada dispersa. Com base
+nestes indícios pode propor-se que aqui se localizaria a <liga termo="villa"> villa</liga> de Gallecos, referenciada nas Inquirições de
+Afonso III, então ainda pertencente à freguesia de Cervos, com cuja ocupação
+se deverão relacionar as sepulturas descritas, implantadas nas imediações da
+capela, e que poderão ser apenas parte de uma <liga termo="necrópole">necrópole</liga>, tipologicamente datável dos séculos X-XIII. Nesta
+perspectiva poderá aceitar-se que a capela da Senhora da Natividade ou
+Senhora de Galegos date já dos séculos centrais da Idade Média, servindo
+nessa época, senão como igreja paroquial, pelo menos como templo local,
 interpretando aqui no Barroso o modelo de povoamento medieval que no
-Noroeste peninsular se designa por <LIGA TERMO="villa">villa</LIGA>-ecclesia. O monumento apresenta-se razoavelmente
-conservado.</DESARQ>
-<INTERP>Capela e necrÃÂ³pole medievais. </INTERP>
-<INTERE>Embora nÃÂ£o possua um significativo valor patrimonial, o interesse deste
-monumento radica na sua grande importÃÂ¢ncia para a compreensÃÂ£o da ocupaÃÂ§ÃÂ£o
-medieval na regiÃÂ£o do Barroso.</INTERE>
-<BIBLIO>BARREIROS, F.B.(1920). Materiais para a arqueologia do Concelho de
-Montalegre. ArqueÃÂ³logo PortuguÃÂªs, 24, 1919-20, pp. 58-87. </BIBLIO>
-<BIBLIO>FONTES, L.(1992). SÃÂ­tios e Achados ArqueolÃÂ³gicos do Concelho de
-Montalegre. Braga, 1992 (ediÃÂ§ÃÂ£o policopiada da CCRN - Porto). </BIBLIO>
-<AUTOR> Luis Fontes </AUTOR>
-<DATA>04-FEV-1998</DATA>
-</ARQELEM>
+Noroeste peninsular se designa por <liga termo="villa">villa</liga>-ecclesia. O monumento apresenta-se razoavelmente
+conservado.</desarq>
+<interp>Capela e necrópole medievais. </interp>
+<intere>Embora não possua um significativo valor patrimonial, o interesse deste
+monumento radica na sua grande importância para a compreensão da ocupação
+medieval na região do Barroso.</intere>
+<biblio>BARREIROS, F.B.(1920). Materiais para a arqueologia do Concelho de
+Montalegre. Arqueólogo Português, 24, 1919-20, pp. 58-87. </biblio>
+<biblio>FONTES, L.(1992). Sítios e Achados Arqueológicos do Concelho de
+Montalegre. Braga, 1992 (edição policopiada da CCRN - Porto). </biblio>
+<autor> Luis Fontes </autor>
+<data>04-FEV-1998</data>
+</arqelem>

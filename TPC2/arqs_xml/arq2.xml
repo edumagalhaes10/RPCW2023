@@ -1,58 +1,58 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<ARQELEM>
-<TIPO ASSUNTO="arqueossitio"/>
-<IDENTI> Lago </IDENTI>
-<DESCRI>
-<LIGA TERMO="povoado fortificado"> Povoado fortificado</LIGA>
-</DESCRI>
-<CRONO>Proto-HistÃÂ³ria</CRONO>
-<LUGAR> Lago </LUGAR>
-<FREGUE> Lago </FREGUE>
-<CONCEL> Amares </CONCEL>
-<CODADM> 030113 </CODADM>
-<LATITU>517,4</LATITU>
-<LONGIT>177</LONGIT>
-<ALTITU> 65m </ALTITU>
-<ACESSO>O acesso a este povoado faz-se a partir do lugar de Lago,
+<arqelem>
+<tipo assunto="arqueossitio"></tipo>
+<identi> Lago </identi>
+<descri>
+<liga termo="povoado fortificado"> Povoado fortificado</liga>
+</descri>
+<crono>Proto-História</crono>
+<lugar> Lago </lugar>
+<fregue> Lago </fregue>
+<concel> Amares </concel>
+<codadm> 030113 </codadm>
+<latitu>517,4</latitu>
+<longit>177</longit>
+<altitu> 65m </altitu>
+<acesso>O acesso a este povoado faz-se a partir do lugar de Lago,
  por caminho carreteiro, que contorna os lados Oeste e Sul do
-monte.</ACESSO>
-<QUADRO>O povoado do Lago assenta num pequeno cabeÃÂ§o de baixa altitude, sobranceiro
+monte.</acesso>
+<quadro>O povoado do Lago assenta num pequeno cabeço de baixa altitude, sobranceiro
 ao rio.
-Possui boas defesas naturais e destaca-se bem na superfÃÂ­cie suavemente
-ondulada da plataforma fluvial.</QUADRO>
-<TRAARQ>Conhecido da bibliografia arqueolÃÂ³gica desde os anos 50 o povoado foi
-objecto de trabalhos de escavaÃÂ§ÃÂ£o entre 1980 e
- 1982, no ÃÂ¢mbito de um projecto de investigaÃÂ§ÃÂ£o da responsabilidade de
+Possui boas defesas naturais e destaca-se bem na superfície suavemente
+ondulada da plataforma fluvial.</quadro>
+<traarq>Conhecido da bibliografia arqueológica desde os anos 50 o povoado foi
+objecto de trabalhos de escavação entre 1980 e
+ 1982, no âmbito de um projecto de investigação da responsabilidade de
 Manuela Martins. Estes trabalhos permitiram a
- caracterizaÃÂ§ÃÂ£o do povoado e a sua dataÃÂ§ÃÂ£o. </TRAARQ>
-<DESARQ>O povoado possui uma ÃÂºnica plataforma poligonal irregular, circundada, pelo
+ caracterização do povoado e a sua datação. </traarq>
+<desarq>O povoado possui uma única plataforma poligonal irregular, circundada, pelo
 menos no lado Oeste, por uma muralha de pedra,
- ÃÂ  qual se associa um fosso, escavado na base da vertente.</DESARQ>
-<INTERP> Os trabalhos de escavaÃÂ§ÃÂ£o aÃÂ­ realizados permitiram determinar uma
-ocupaÃÂ§ÃÂ£o situada entre o sÃÂ©culo III a.C. e
-meados do sÃÂ©culo I da nossa era. NÃÂ£o foram encontrados indÃÂ­cios seguros de
-<LIGA TERMO="romanizaÃÂ§ÃÂ£o"> romanizaÃÂ§ÃÂ£o</LIGA>.
- TambÃÂ©m nÃÂ£o se encontraram habitaÃÂ§ÃÂµes pÃÂ©treas. Todavia, identificaram-se
-vÃÂ¡rias fossas que permitem atribuir ao povoado
- uma funÃÂ§ÃÂ£o econÃÂ³mica importante relacionada com a exploraÃÂ§ÃÂ£o do vale.
+ à qual se associa um fosso, escavado na base da vertente.</desarq>
+<interp> Os trabalhos de escavação aí realizados permitiram determinar uma
+ocupação situada entre o século III a.C. e
+meados do século I da nossa era. Não foram encontrados indícios seguros de
+<liga termo="romanização"> romanização</liga>.
+ Também não se encontraram habitações pétreas. Todavia, identificaram-se
+várias fossas que permitem atribuir ao povoado
+ uma função económica importante relacionada com a exploração do vale.
 Trata-se com alguma probabilidade de um povoado
-agrÃÂ­cola, que desempenharia um papel importante na rede hierÃÂ¡rquica do
-povoamento indÃÂ­gena, caracterÃÂ­stica dos ÃÂºltimos
-sÃÂ©culos antes da nossa era. As escavaÃÂ§ÃÂµes forneceram abundante espÃÂ³lio.
-Povoado fortificado proto-histÃÂ³roco.</INTERP>
-<DEPOSI> Museu D. Diogo de Sousa. </DEPOSI>
-<INTERE>Apesar de nÃÂ£o serem visÃÂ­veis estruturas, a visita ao povoado permite
-compreender a original implantaÃÂ§ÃÂ£o dos povoados de
+agrícola, que desempenharia um papel importante na rede hierárquica do
+povoamento indígena, característica dos últimos
+séculos antes da nossa era. As escavações forneceram abundante espólio.
+Povoado fortificado proto-históroco.</interp>
+<deposi> Museu D. Diogo de Sousa. </deposi>
+<intere>Apesar de não serem visíveis estruturas, a visita ao povoado permite
+compreender a original implantação dos povoados de
  baixa altitude, que constituem uma especifidade do povoamento
-proto-histÃÂ³rico da regiÃÂ£o. </INTERE>
-<BIBLIO>SILVA D. M. (1958-59). Entre Homem e CÃÂ¡vado, Amares, Monografia do concelho
-de Amares e Terras de Bouro, Amares.pp. 139; </BIBLIO>
-<BIBLIO>MARTINS, M. (1986b). O povoado proto-histÃÂ³rico do Lago (Amares). Sistemas de
-defesa e fases de ocupaÃÂ§ÃÂ£o, ArqueÃÂ³logo PortuguÃÂªs,
- sÃÂ©rie IV, 4, pp. 149-184. </BIBLIO>
-<BIBLIO>MARTINS, M. (1988). O povoado fortificado de Lago, Amares, Cadernos de
+proto-histórico da região. </intere>
+<biblio>SILVA D. M. (1958-59). Entre Homem e Cávado, Amares, Monografia do concelho
+de Amares e Terras de Bouro, Amares.pp. 139; </biblio>
+<biblio>MARTINS, M. (1986b). O povoado proto-histórico do Lago (Amares). Sistemas de
+defesa e fases de ocupação, Arqueólogo Português,
+ série IV, 4, pp. 149-184. </biblio>
+<biblio>MARTINS, M. (1988). O povoado fortificado de Lago, Amares, Cadernos de
 Arqueologia - Monografias, 1,
- Universidade do Minho, Braga. </BIBLIO>
-<AUTOR>Manuela Martins</AUTOR>
-<DATA>04-FEV-1998</DATA>
-</ARQELEM>
+ Universidade do Minho, Braga. </biblio>
+<autor>Manuela Martins</autor>
+<data>04-FEV-1998</data>
+</arqelem>

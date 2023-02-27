@@ -15,8 +15,9 @@ var myserver = http.createServer(function (req, res){
     }
     else{
         var numPag = req.url.substring(1,)
-        fs.readFile('arqs_xml/arq'+numPag+'.xml', function(err, data){
-            res.writeHead(200, {'Content-Type': 'text/xml;'})
+        // fs.readFile('arqs_xml/arq'+numPag+'.xml', function(err, data){
+        fs.readFile('arqs_html/arq'+numPag+'.html', function(err, data){
+            res.writeHead(200, {'Content-Type': 'text/html;'})
             if(err) res.write("Erro: " + err)
             else res.write(data)
             res.end()

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<ARQELEM>
-<TIPO ASSUNTO="arqueossitio"/>
-<IDENTI> Monte de Santa Marinha </IDENTI>
-<DESCRI> Monumento megalÃÂ­tico</DESCRI>
-<CRONO>PrÃÂ©-HistÃÂ³ria Recente</CRONO>
-<LUGAR> Santa Marinha </LUGAR>
-<FREGUE> TravassÃÂ³s </FREGUE>
-<CONCEL> Fafe </CONCEL>
-<CODADM> 030733 </CODADM>
-<LATITU> 503,3 </LATITU>
-<LONGIT> 193,2 </LONGIT>
-<ALTITU> 580m </ALTITU>
-<ACESSO>Entre Castanheira e Santa Marinha, a seguir ao lugar dos PoÃÂ§os Salgueiros,
-1Km a leste, por caminho carreteiro que atravessa o planalto. </ACESSO>
-<QUADRO>Extensa chÃÂ£ planÃÂ¡ltica do Monte de Santa Marinha, integrada na bacia
-hidrogrÃÂ¡fica do rio Ave.</QUADRO>
-<DESARQ>
-<LIGA TERMO="mamoa"> Mamoa</LIGA> de grandes dimensÃÂµes, com cerca de 20 a
-25m de diÃÂ¢metro, certamente pertencente ÃÂ  mesma <LIGA TERMO="necrÃÂ³pole">necrÃÂ³pole</LIGA> a que pertenciam os monumentos de PoÃÂ§os Salgueiros.</DESARQ>
-<INTERP> NecrÃÂ³pole megalÃÂ­tica.</INTERP>
-<AUTOR> Manuela Martins </AUTOR>
-<DATA>04-FEV-1998</DATA>
-</ARQELEM>
+<arqelem>
+<tipo assunto="arqueossitio"></tipo>
+<identi> Monte de Santa Marinha </identi>
+<descri> Monumento megalítico</descri>
+<crono>Pré-História Recente</crono>
+<lugar> Santa Marinha </lugar>
+<fregue> Travassós </fregue>
+<concel> Fafe </concel>
+<codadm> 030733 </codadm>
+<latitu> 503,3 </latitu>
+<longit> 193,2 </longit>
+<altitu> 580m </altitu>
+<acesso>Entre Castanheira e Santa Marinha, a seguir ao lugar dos Poços Salgueiros,
+1Km a leste, por caminho carreteiro que atravessa o planalto. </acesso>
+<quadro>Extensa chã planáltica do Monte de Santa Marinha, integrada na bacia
+hidrográfica do rio Ave.</quadro>
+<desarq>
+<liga termo="mamoa"> Mamoa</liga> de grandes dimensões, com cerca de 20 a
+25m de diâmetro, certamente pertencente à mesma <liga termo="necrópole">necrópole</liga> a que pertenciam os monumentos de Poços Salgueiros.</desarq>
+<interp> Necrópole megalítica.</interp>
+<autor> Manuela Martins </autor>
+<data>04-FEV-1998</data>
+</arqelem>

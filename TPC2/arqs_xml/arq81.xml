@@ -1,57 +1,57 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<ARQELEM>
-<TIPO ASSUNTO="arqueossitio"/>
-<IDENTI> Ponte Nova ou da Cava da Velha </IDENTI>
-<DESCRI> Ponte </DESCRI>
-<CRONO> Idade MÃÂ©dia</CRONO>
-<LUGAR> Cava da Velha </LUGAR>
-<FREGUE> Castro Laboreiro</FREGUE>
-<CONCEL> MelgaÃÂ§o </CONCEL>
-<CODADM> 160302 </CODADM>
-<ACESSO>Nos limites da "inverneira" de Assureira, cerca de 3 kms a Sul de Castro
-Laboreiro. O acesso faz-se a pÃÂ© (cerca de 5 minutos), percorrendo cerca de
+<arqelem>
+<tipo assunto="arqueossitio"></tipo>
+<identi> Ponte Nova ou da Cava da Velha </identi>
+<descri> Ponte </descri>
+<crono> Idade Média</crono>
+<lugar> Cava da Velha </lugar>
+<fregue> Castro Laboreiro</fregue>
+<concel> Melgaço </concel>
+<codadm> 160302 </codadm>
+<acesso>Nos limites da "inverneira" de Assureira, cerca de 3 kms a Sul de Castro
+Laboreiro. O acesso faz-se a pé (cerca de 5 minutos), percorrendo cerca de
 100 metros do antigo caminho carreteiro lajeado que, cerca de 20 metros a
-Sul da capela de S. BrÃÂ¡s, cruza com a estrada municipal que deriva da
+Sul da capela de S. Brás, cruza com a estrada municipal que deriva da
 estrada EN.202-3 ligando Castro Laboreiro a Ribeiro de Baixo e Eiras. O
-monumento nÃÂ£o estÃÂ¡ sinalizado.</ACESSO>
-<DESARQ>Ponte de tradiÃÂ§ÃÂ£o arquitectÃÂ³nica medieval lanÃÂ§ada sobre o rio Laboreiro numa
-zona de topografia mais acessÃÂ­vel. ÃÂ notÃÂ¡vel pelas suas caracterÃÂ­sticas
-arquitectÃÂ³nicas, transmitindo uma imagem de grande solidez, em grande parte
-devido ao impacto paisagÃÂ­stico resultante do contraste com a nudez do
+monumento não está sinalizado.</acesso>
+<desarq>Ponte de tradição arquitectónica medieval lançada sobre o rio Laboreiro numa
+zona de topografia mais acessível. É notável pelas suas características
+arquitectónicas, transmitindo uma imagem de grande solidez, em grande parte
+devido ao impacto paisagístico resultante do contraste com a nudez do
 terreno envolvente, em que dominam afloramentos rochosos e uma escassa
-cobertura vegetal arbustiva. ÃÂ igualmente notÃÂ¡vel pela excelÃÂªncia da
-fÃÂ¡brica, apresentando-se solidamente assente nas margens. Tem dois arcos, de
+cobertura vegetal arbustiva. É igualmente notável pela excelência da
+fábrica, apresentando-se solidamente assente nas margens. Tem dois arcos, de
 volta perfeita, o maior com cerca de 10,5 metros de abertura e 7,5 metros de
 altura, o mais pequeno com 1,7 metros de abertura e 3,3 metros de altura.
-Nos intradorsos sÃÂ£o visÃÂ­veis os encaixes dos cimbres. O tabuleiro, em
-cavalete pronunciado, com guardas pÃÂ©treas e lajeado, mede quase 3 metros de
-largura e vence um<LIGA TERMO="triedro"> triedro</LIGA>total superior a 20
-metros. O <LIGA TERMO="aparelho"> aparelho</LIGA> dos paramentos ÃÂ© pouco
+Nos intradorsos são visíveis os encaixes dos cimbres. O tabuleiro, em
+cavalete pronunciado, com guardas pétreas e lajeado, mede quase 3 metros de
+largura e vence um<liga termo="triedro"> triedro</liga>total superior a 20
+metros. O <liga termo="aparelho"> aparelho</liga> dos paramentos é pouco
 elaborado e irregular, revelando maior qualidade no aro do arco, onde se
-apresenta regular e com almofadado rÃÂºstico nas faces externas. O monumento e
-a envolvÃÂªncia paisagÃÂ­stica apresentam-se muito bem conservadas.</DESARQ>
-<INTERP>NÃÂ£o sendo uma construÃÂ§ÃÂ£o cronologicamente medieval, relevando neste aspecto
-a designaÃÂ§ÃÂ£o "Ponte Nova", revela caracterÃÂ­sticas tÃÂ©cnicas e formais dessa
-ÃÂ©poca, podendo por isso servir de exemplo de um tipo comum de pontes
-mediÃÂ©vicas.
-Tal como na ponte da Assureira, a atribuiÃÂ§ÃÂ£o cronolÃÂ³gica que acompanhou a
-proposta de classificaÃÂ§ÃÂ£o deste monumento deveria ser revista, pois nÃÂ£o se
-trata de uma construÃÂ§ÃÂ£o originalmente romana - O recurso ao clÃÂ¡ssico <LIGA TERMO="aparelho"> aparelho</LIGA> almofadado rusticado foi frequente nos
-sÃÂ©culos XVI a XVIII, distinguindo-se do "original" romano por apresentar
-almofadas mais pequenas e com melhor acabamento, menos rÃÂºsticas. Para alÃÂ©m
-disso, o contexto arqueolÃÂ³gico de <LIGA TERMO="romanizaÃÂ§ÃÂ£o">romanizaÃÂ§ÃÂ£o</LIGA> Castro Laboreiro nÃÂ£o sustenta a existÃÂªncia de qualquer
-rede viÃÂ¡ria associÃÂ¡vel a esta ponte.</INTERP>
-<INTERE>Para alÃÂ©m do inegÃÂ¡vel valor patrimonial do monumento (estÃÂ¡ classificado com
-o IIP - Dec. 1/86 de 3-1), a ponte da Cava da Velha, porque relacionÃÂ¡vel nÃÂ£o
-apenas com a rede de comunicaÃÂ§ÃÂµes vicinais a Sul de Castro Laboreiro,
-ligando designadamente os eixos de comunicaÃÂ§ÃÂ£o que servem as aldeias das
-margens direita e esquerda do vale do rio Laboreiro, como tambÃÂ©m com a rede
-viÃÂ¡ria regional minhoto-galaica que colocava Castro Laboreiro na ligaÃÂ§ÃÂ£o
-entre MelgaÃÂ§o ou Arcos de Valdevez e Bande (por Entrimo e Lobios), detem um
-inegÃÂ¡vel significado histÃÂ³rico-cultural local.</INTERE>
-<BIBLIO>Rodrigues, A.R. (1985) Pontes Romanas e RomÃÂ¢nicas Castro Laboreiro (separata
-dos "Cadernos da CÃÂ¢mara Municipal de MelgaÃÂ§o, 2), CÃÂ¢mara Municipal de
-MelgaÃÂ§o, 1985. </BIBLIO>
-<AUTOR> LuÃÂ­s Fontes </AUTOR>
-<DATA>04-FEV-1998</DATA>
-</ARQELEM>
+apresenta regular e com almofadado rústico nas faces externas. O monumento e
+a envolvência paisagística apresentam-se muito bem conservadas.</desarq>
+<interp>Não sendo uma construção cronologicamente medieval, relevando neste aspecto
+a designação "Ponte Nova", revela características técnicas e formais dessa
+época, podendo por isso servir de exemplo de um tipo comum de pontes
+mediévicas.
+Tal como na ponte da Assureira, a atribuição cronológica que acompanhou a
+proposta de classificação deste monumento deveria ser revista, pois não se
+trata de uma construção originalmente romana - O recurso ao clássico <liga termo="aparelho"> aparelho</liga> almofadado rusticado foi frequente nos
+séculos XVI a XVIII, distinguindo-se do "original" romano por apresentar
+almofadas mais pequenas e com melhor acabamento, menos rústicas. Para além
+disso, o contexto arqueológico de <liga termo="romanização">romanização</liga> Castro Laboreiro não sustenta a existência de qualquer
+rede viária associável a esta ponte.</interp>
+<intere>Para além do inegável valor patrimonial do monumento (está classificado com
+o IIP - Dec. 1/86 de 3-1), a ponte da Cava da Velha, porque relacionável não
+apenas com a rede de comunicações vicinais a Sul de Castro Laboreiro,
+ligando designadamente os eixos de comunicação que servem as aldeias das
+margens direita e esquerda do vale do rio Laboreiro, como também com a rede
+viária regional minhoto-galaica que colocava Castro Laboreiro na ligação
+entre Melgaço ou Arcos de Valdevez e Bande (por Entrimo e Lobios), detem um
+inegável significado histórico-cultural local.</intere>
+<biblio>Rodrigues, A.R. (1985) Pontes Romanas e Românicas Castro Laboreiro (separata
+dos "Cadernos da Câmara Municipal de Melgaço, 2), Câmara Municipal de
+Melgaço, 1985. </biblio>
+<autor> Luís Fontes </autor>
+<data>04-FEV-1998</data>
+</arqelem>

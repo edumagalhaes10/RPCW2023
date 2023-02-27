@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<ARQELEM>
-<TIPO ASSUNTO="arqueossitio"/>
-<IDENTI> Alto do Crasto; Crasto de Espinho </IDENTI>
-<DESCRI> Povoado </DESCRI>
-<CRONO> Proto-HistÃÂ³ria</CRONO>
-<LUGAR/>
-<FREGUE> Este (S. Pedro) </FREGUE>
-<CONCEL> Braga </CONCEL>
-<CODADM> 030344 </CODADM>
-<LATITU> 509,7 </LATITU>
-<LONGIT> 180,5 </LONGIT>
-<ALTITU> 440m </ALTITU>
-<ACESSO>Pelo lugar do Picoto, freguesia de S. Pedro dÃÂ´Este. No fim do lugar
-continuar por caminho carreteiro atÃÂ© ao povoado. </ACESSO>
-<QUADRO>CabeÃÂ§o situado num remate de esporÃÂ£o, a Norte do Monte do Rio Mau, com
-grande nÃÂºmero de afloramentos granÃÂ­ticos, sobranceiro ao vale do Este.
-Apresenta boas condiÃÂ§ÃÂµes naturais de defesa, devido ÃÂ s suas vertentes
+<arqelem>
+<tipo assunto="arqueossitio"></tipo>
+<identi> Alto do Crasto; Crasto de Espinho </identi>
+<descri> Povoado </descri>
+<crono> Proto-História</crono>
+<lugar></lugar>
+<fregue> Este (S. Pedro) </fregue>
+<concel> Braga </concel>
+<codadm> 030344 </codadm>
+<latitu> 509,7 </latitu>
+<longit> 180,5 </longit>
+<altitu> 440m </altitu>
+<acesso>Pelo lugar do Picoto, freguesia de S. Pedro d´Este. No fim do lugar
+continuar por caminho carreteiro até ao povoado. </acesso>
+<quadro>Cabeço situado num remate de esporão, a Norte do Monte do Rio Mau, com
+grande número de afloramentos graníticos, sobranceiro ao vale do Este.
+Apresenta boas condições naturais de defesa, devido às suas vertentes
 abruptas e tem exelente visibilidade sobre os vales circundantes. As
 vertentes do planalto encontram-se densamente arborizadas. A plantaforma
-superior foi queimada recentemente. </QUADRO>
-<DESARQ>Designado por alguns autores como "Castro de Espinho". A bibliografia refere
-a descoberta no local de alguns fragmentos cerÃÂ¢micos, de pasta grosseira e
-de cor escura. As prospecÃÂ§ÃÂµes mais recentes de L. Fontes e AntÃÂ³nio Dinis nÃÂ£o
-permitiram recolher qualquer tipo de espÃÂ³lio, devido ÃÂ  densidade da
-vegetaÃÂ§ÃÂ£o. Por sua vez, as nossas pesquisas nÃÂ£o identificaram estruturas
-pÃÂ©treas, mas permitiram recolher um pequeno fragmento cerÃÂ¢mico, de fabrico
+superior foi queimada recentemente. </quadro>
+<desarq>Designado por alguns autores como "Castro de Espinho". A bibliografia refere
+a descoberta no local de alguns fragmentos cerâmicos, de pasta grosseira e
+de cor escura. As prospecções mais recentes de L. Fontes e António Dinis não
+permitiram recolher qualquer tipo de espólio, devido à densidade da
+vegetação. Por sua vez, as nossas pesquisas não identificaram estruturas
+pétreas, mas permitiram recolher um pequeno fragmento cerâmico, de fabrico
 manual, de pasta arenosa e de cor castanha. Encontrava-se na zona dos
-afloramentos granÃÂ­ticos, no inÃÂ­cio da vertente Norte. </DESARQ>
-<INTERP>Povoado proto-histÃÂ³rico da Idade do Bronze.</INTERP>
-<BIBLIO>BELLINO, A. (1909) Cidades mortas, ArqueÃÂ³logo PortuguÃÂªs, 14 (1-8), Lisboa,
-pp. 1-28. </BIBLIO>
-<BIBLIO> DINIS, A. (1993) Ordenamento do territÃÂ³rio do Baixo Ave no I
-milÃÂ©nio A.C., (DissertaÃÂ§ÃÂ£o de Mestrado, apresentada ÃÂ  Faculdade de Letras do
-Porto, Porto - Policopiado). </BIBLIO>
-<BIBLIO> FONTES, L. (1993) InventÃÂ¡rio de sÃÂ­tios e achados arqueolÃÂ³gicos do
-concelho de Braga, MÃÂ­nia, 3ÃÂª sÃÂ©r., 1, Braga, pp. 31-88. </BIBLIO>
-<AUTOR> Ana M. S. Bettencourt </AUTOR>
-<DATA>04-FEV-1998</DATA>
-</ARQELEM>
+afloramentos graníticos, no início da vertente Norte. </desarq>
+<interp>Povoado proto-histórico da Idade do Bronze.</interp>
+<biblio>BELLINO, A. (1909) Cidades mortas, Arqueólogo Português, 14 (1-8), Lisboa,
+pp. 1-28. </biblio>
+<biblio> DINIS, A. (1993) Ordenamento do território do Baixo Ave no I
+milénio A.C., (Dissertação de Mestrado, apresentada à Faculdade de Letras do
+Porto, Porto - Policopiado). </biblio>
+<biblio> FONTES, L. (1993) Inventário de sítios e achados arqueológicos do
+concelho de Braga, Mínia, 3ª sér., 1, Braga, pp. 31-88. </biblio>
+<autor> Ana M. S. Bettencourt </autor>
+<data>04-FEV-1998</data>
+</arqelem>

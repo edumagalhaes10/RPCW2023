@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<ARQELEM>
-<TIPO ASSUNTO="arqueossitio"/>
-<IDENTI> Viade de Baixo </IDENTI>
-<DESCRI> Igreja; <LIGA TERMO="necrÃÂ³pole"> NecrÃÂ³pole</LIGA>
-</DESCRI>
-<CRONO>Idade Moderna</CRONO>
-<LUGAR> Viade de Baixo </LUGAR>
-<FREGUE> Viade de Baixo </FREGUE>
-<CONCEL> Montalegre </CONCEL>
-<CODADM> 170634 </CODADM>
-<LATITU> 532,4 </LATITU>
-<LONGIT> 212,5 </LONGIT>
-<ALTITU> 926m </ALTITU>
-<ACESSO>O acesso faz-se pela estrada municipal alcatroada que liga a povoaÃÂ§ÃÂ£o
-directamente ÃÂ  estrada EN 103, ÃÂ  direita na direcÃÂ§ÃÂ£o Montalegre - Braga. O
-monumento nÃÂ£o estÃÂ¡ sinalizado.</ACESSO>
-<DESARQ>EdifÃÂ­cio de arquitectura romÃÂ¢nica tardia, com troÃÂ§os de paredes originais de
-<LIGA TERMO="aparelho isÃÂ³dono"> aparelho isÃÂ³dono</LIGA>, superiormente
-rematadas com <LIGA TERMO="modilhÃÂ£o"> modilhÃÂµes</LIGA> lisos. Portal
-setentrional de<LIGA TERMO="arco"> arco</LIGA>e <LIGA TERMO="arquivolta">arquivolta</LIGA> lisas, de volta perfeita. Nartex acrescentado tardiamente,
-abrigando vÃÂ¡rias sepulturas modernas. Em torno da igreja, no interior do
-adro murado, vÃÂªem-se ainda coberturas de outras sepulturas modernas, algumas
-com decoraÃÂ§ÃÂ£o simples nas tampas.</DESARQ>
-<INTERP>Igreja de fundaÃÂ§ÃÂ£o tardo-medieval; necrÃÂ³pole moderna. </INTERP>
-<INTERE>Embora razoavelmente conservados, os elementos descritos nÃÂ£o tÃÂªm, no
+<arqelem>
+<tipo assunto="arqueossitio"></tipo>
+<identi> Viade de Baixo </identi>
+<descri> Igreja; <liga termo="necrópole"> Necrópole</liga>
+</descri>
+<crono>Idade Moderna</crono>
+<lugar> Viade de Baixo </lugar>
+<fregue> Viade de Baixo </fregue>
+<concel> Montalegre </concel>
+<codadm> 170634 </codadm>
+<latitu> 532,4 </latitu>
+<longit> 212,5 </longit>
+<altitu> 926m </altitu>
+<acesso>O acesso faz-se pela estrada municipal alcatroada que liga a povoação
+directamente à estrada EN 103, à direita na direcção Montalegre - Braga. O
+monumento não está sinalizado.</acesso>
+<desarq>Edifício de arquitectura românica tardia, com troços de paredes originais de
+<liga termo="aparelho isódono"> aparelho isódono</liga>, superiormente
+rematadas com <liga termo="modilhão"> modilhões</liga> lisos. Portal
+setentrional de<liga termo="arco"> arco</liga>e <liga termo="arquivolta">arquivolta</liga> lisas, de volta perfeita. Nartex acrescentado tardiamente,
+abrigando várias sepulturas modernas. Em torno da igreja, no interior do
+adro murado, vêem-se ainda coberturas de outras sepulturas modernas, algumas
+com decoração simples nas tampas.</desarq>
+<interp>Igreja de fundação tardo-medieval; necrópole moderna. </interp>
+<intere>Embora razoavelmente conservados, os elementos descritos não têm, no
 contexto regional, grande valor patrimonial nem revestem particular
-significado histÃÂ³rico. </INTERE>
-<BIBLIO>COSTA, J. G.(1968). Montalegre e Terras de Barroso. Montalegre, 1968.</BIBLIO>
-<BIBLIO>FONTES, L.(1992). SÃÂ­tios e Achados ArqueolÃÂ³gicos do Concelho de
-Montalegre. Braga, 1992 (ediÃÂ§ÃÂ£o policopiada da CCRN - Porto). </BIBLIO>
-<AUTOR> Luis Fontes </AUTOR>
-<DATA>04-FEV-1998</DATA>
-</ARQELEM>
+significado histórico. </intere>
+<biblio>COSTA, J. G.(1968). Montalegre e Terras de Barroso. Montalegre, 1968.</biblio>
+<biblio>FONTES, L.(1992). Sítios e Achados Arqueológicos do Concelho de
+Montalegre. Braga, 1992 (edição policopiada da CCRN - Porto). </biblio>
+<autor> Luis Fontes </autor>
+<data>04-FEV-1998</data>
+</arqelem>

@@ -1,61 +1,61 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<ARQELEM>
-<TIPO ASSUNTO="arqueossitio"/>
-<IDENTI> Ponte de Assureira ou Ponte da Capela </IDENTI>
-<DESCRI> Ponte </DESCRI>
-<CRONO> Idade MÃÂ©dia</CRONO>
-<LUGAR> Assureira </LUGAR>
-<FREGUE> Castro Laboreiro </FREGUE>
-<CONCEL> MelgaÃÂ§o </CONCEL>
-<CODADM> 160302 </CODADM>
-<ACESSO>PrÃÂ³ximo da "inverneira" de Assureira, cerca de 3 kms a Sul de
+<arqelem>
+<tipo assunto="arqueossitio"></tipo>
+<identi> Ponte de Assureira ou Ponte da Capela </identi>
+<descri> Ponte </descri>
+<crono> Idade Média</crono>
+<lugar> Assureira </lugar>
+<fregue> Castro Laboreiro </fregue>
+<concel> Melgaço </concel>
+<codadm> 160302 </codadm>
+<acesso>Próximo da "inverneira" de Assureira, cerca de 3 kms a Sul de
 Castro Laboreiro. O acesso faz-se pela estrada municipal que deriva da
 estrada EN.202-3 ligando Castro Laboreiro a Ribeiro de Baixo e Eiras. O
-monumento, que nÃÂ£o estÃÂ¡ sinalizado, situa-se ÃÂ  margem da estrada, frente ÃÂ 
-capela de S. BrÃÂ¡s. </ACESSO>
-<DESARQ>Ponte sobre o ribeiro do Barreiro, de um<LIGA TERMO="arco"> arco</LIGA>de
-volta perfeita alicerÃÂ§ado na rocha granÃÂ­tica que aflora nas margens, atravÃÂ©s
-de paramentos de <LIGA TERMO="aparelho"> aparelho</LIGA> rude em mamposteria
-de calhaus e blocos granÃÂ­ticos mal afeiÃÂ§oados. O<LIGA TERMO="arco">arco</LIGA>e o tabuleiro deixam perceber bem, pela adopÃÂ§ÃÂ£o de <LIGA TERMO="aparelho"> aparelhos</LIGA> distintos, a existÃÂªncia de dois momentos
-construtivos distintos: na metade poente, lado de montante, o<LIGA TERMO="arco"> arco</LIGA>mede cerca de 2 metros de largura e ÃÂ© composto por
-<LIGA TERMO="aduela"> aduelas</LIGA> de blocos mÃÂºltiplos, com modulaÃÂ§ÃÂ£o
-relativamente regular. No intradorso observam-se ainda os orifÃÂ­cios para
-encaixe do cimbre. O piso do tabuleiro ÃÂ© composto por lajes pequenas -
-tratar-se-ÃÂ¡ da parte medieval da construÃÂ§ÃÂ£o; na metade nascente, lado de
-juzante o<LIGA TERMO="arco"> arco</LIGA>mede cerca de 1,5 metros de largura
-e ÃÂ© composto por <LIGA TERMO="aduela"> aduelas</LIGA> de bloco ÃÂºnico, com
-modulaÃÂ§ÃÂ£o relativamente regular e um tosco almofadado rusticado nas faces
-externas - corresponde a uma ampliaÃÂ§ÃÂ£o moderna, conseguida pelo adossamento
-de um novo<LIGA TERMO="arco"> arco</LIGA>ao anterior. Aqui o piso do
-tabuleiro ÃÂ© composto por lajes de grande dimensÃÂ£o, que se sobrepÃÂµe
-parcialmente ao<LIGA TERMO="arco"> arco</LIGA>do lado poente. Desenhando um
-cavalete pouco pronunciado, sem guardas e vencendo um<LIGA TERMO="triedro">triedro</LIGA>com cerca de 4 metros de comprimento e mais de 2,5 metros de
-altura, esta construÃÂ§ÃÂ£o apresenta, apesar da remodelaÃÂ§ÃÂ£o construtiva
-moderna, caracterÃÂ­sticas arquitectÃÂ³nico-construtivas perfeitamente
-medievais, devendo notar-se, contudo, a ausÃÂªncia de siglas de <LIGA TERMO="canteiro"> canteiro</LIGA>. Encontra-se mal conservada, oculta por
-vegetaÃÂ§ÃÂ£o arbustiva e muito perturbada no seu enquadramento pela garagem
-construÃÂ­da junto ao arranque setentrional.</DESARQ>
-<INTERP>Ponte da Baixa Idade MÃÂ©dia com restauro da ÃÂ©poca moderna.
-A atribuiÃÂ§ÃÂ£o cronolÃÂ³gica que acompanhou a proposta de classificaÃÂ§ÃÂ£o deste
-monumento deveria ser revista, pois nÃÂ£o se trata de uma construÃÂ§ÃÂ£o romana. O
-recurso ao clÃÂ¡ssico <LIGA TERMO="aparelho"> aparelho</LIGA> almofadado
-rusticado foi frequente nos sÃÂ©culos XVI a XVIII, distinguindo-se do
+monumento, que não está sinalizado, situa-se à margem da estrada, frente à
+capela de S. Brás. </acesso>
+<desarq>Ponte sobre o ribeiro do Barreiro, de um<liga termo="arco"> arco</liga>de
+volta perfeita alicerçado na rocha granítica que aflora nas margens, através
+de paramentos de <liga termo="aparelho"> aparelho</liga> rude em mamposteria
+de calhaus e blocos graníticos mal afeiçoados. O<liga termo="arco">arco</liga>e o tabuleiro deixam perceber bem, pela adopção de <liga termo="aparelho"> aparelhos</liga> distintos, a existência de dois momentos
+construtivos distintos: na metade poente, lado de montante, o<liga termo="arco"> arco</liga>mede cerca de 2 metros de largura e é composto por
+<liga termo="aduela"> aduelas</liga> de blocos múltiplos, com modulação
+relativamente regular. No intradorso observam-se ainda os orifícios para
+encaixe do cimbre. O piso do tabuleiro é composto por lajes pequenas -
+tratar-se-á da parte medieval da construção; na metade nascente, lado de
+juzante o<liga termo="arco"> arco</liga>mede cerca de 1,5 metros de largura
+e é composto por <liga termo="aduela"> aduelas</liga> de bloco único, com
+modulação relativamente regular e um tosco almofadado rusticado nas faces
+externas - corresponde a uma ampliação moderna, conseguida pelo adossamento
+de um novo<liga termo="arco"> arco</liga>ao anterior. Aqui o piso do
+tabuleiro é composto por lajes de grande dimensão, que se sobrepõe
+parcialmente ao<liga termo="arco"> arco</liga>do lado poente. Desenhando um
+cavalete pouco pronunciado, sem guardas e vencendo um<liga termo="triedro">triedro</liga>com cerca de 4 metros de comprimento e mais de 2,5 metros de
+altura, esta construção apresenta, apesar da remodelação construtiva
+moderna, características arquitectónico-construtivas perfeitamente
+medievais, devendo notar-se, contudo, a ausência de siglas de <liga termo="canteiro"> canteiro</liga>. Encontra-se mal conservada, oculta por
+vegetação arbustiva e muito perturbada no seu enquadramento pela garagem
+construída junto ao arranque setentrional.</desarq>
+<interp>Ponte da Baixa Idade Média com restauro da época moderna.
+A atribuição cronológica que acompanhou a proposta de classificação deste
+monumento deveria ser revista, pois não se trata de uma construção romana. O
+recurso ao clássico <liga termo="aparelho"> aparelho</liga> almofadado
+rusticado foi frequente nos séculos XVI a XVIII, distinguindo-se do
 "original" romano por apresentar almofadas mais pequenas e com melhor
-acabamento, menos rÃÂºsticas. Neste caso particular nem isso acontece, pois o
-dito almofadado nÃÂ£o passa da face irregular, nÃÂ£o trabalhada, deixada "em
-bruto" pelos <LIGA TERMO="canteiro"> canteiros</LIGA>. Para alÃÂ©m disso, o
-contexto arqueolÃÂ³gico de <LIGA TERMO="&lt;CRONO&gt;RomanizaÃÂ§ÃÂ£o&lt;/CRONO&gt;">romanizaÃÂ§ÃÂ£o</LIGA> em Castro Laboreiro nÃÂ£o sustenta a existÃÂªncia de qualquer
-rede viÃÂ¡ria associÃÂ¡vel a esta ponte. </INTERP>
-<INTERE>Apesar de nÃÂ£o se conhecer qualquer referÃÂªncia documental, julgamos estar
-perante uma obra de arte viÃÂ¡ria tardo-medieval e moderna relacionÃÂ¡vel com a
-rede de comunicaÃÂ§ÃÂµes vicinais de <LIGA TERMO="castro"> castro</LIGA>
+acabamento, menos rústicas. Neste caso particular nem isso acontece, pois o
+dito almofadado não passa da face irregular, não trabalhada, deixada "em
+bruto" pelos <liga termo="canteiro"> canteiros</liga>. Para além disso, o
+contexto arqueológico de <liga termo="&lt;CRONO&gt;Romanização&lt;/CRONO&gt;">romanização</liga> em Castro Laboreiro não sustenta a existência de qualquer
+rede viária associável a esta ponte. </interp>
+<intere>Apesar de não se conhecer qualquer referência documental, julgamos estar
+perante uma obra de arte viária tardo-medieval e moderna relacionável com a
+rede de comunicações vicinais de <liga termo="castro"> castro</liga>
 Laboreiro, servindo designadamente as aldeias da margem direita do vale do
-rio Laboreiro. PorÃÂ©m, embora classificado como IIP (Dec. 26-A/92 de 1-6),
-este monumento nÃÂ£o possui nenhum elemento qualitativamente distintivo,
-constituindo um valor patrimonial vulgar.</INTERE>
-<BIBLIO>Rodrigues, A.R. (1985) Pontes Romanas e RomÃÂ¢nicas de Castro Laboreiro
-(separata dos "Cadernos da CÃÂ¢mara Municipal de MelgaÃÂ§o, 2), CÃÂ¢mara Municipal
-de MelgaÃÂ§o, 1985. </BIBLIO>
-<AUTOR> LuÃÂs Fontes </AUTOR>
-<DATA>04-FEV-1998</DATA>
-</ARQELEM>
+rio Laboreiro. Porém, embora classificado como IIP (Dec. 26-A/92 de 1-6),
+este monumento não possui nenhum elemento qualitativamente distintivo,
+constituindo um valor patrimonial vulgar.</intere>
+<biblio>Rodrigues, A.R. (1985) Pontes Romanas e Românicas de Castro Laboreiro
+(separata dos "Cadernos da Câmara Municipal de Melgaço, 2), Câmara Municipal
+de Melgaço, 1985. </biblio>
+<autor> LuÍs Fontes </autor>
+<data>04-FEV-1998</data>
+</arqelem>

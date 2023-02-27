@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<ARQELEM>
-<TIPO ASSUNTO="arqueossitio"/>
-<IDENTI> Monte Redondo </IDENTI>
-<DESCRI> Igreja </DESCRI>
-<CRONO> Idade MÃÂ©dia</CRONO>
-<LUGAR> Monte Redondo </LUGAR>
-<FREGUE> Monte Redondo </FREGUE>
-<CONCEL> Arcos de Valdevez </CONCEL>
-<CODADM> 160122 </CODADM>
-<LATITU> 542,1 </LATITU>
-<LONGIT> 173,2 </LONGIT>
-<ALTITU> 227m </ALTITU>
-<ACESSO>Junto ÃÂ  aldeia de Monte Redondo. O acesso faz-se por estrada municipal, a
-partir da estrada nacional EN.303 (ligaÃÂ§ÃÂ£o Arcos de Valdevez - Paredes de
-Coura) ou da EN.202 (ligaÃÂ§ÃÂ£o Arcos de Valdevez - Ponte de Lima). O monumento
-nÃÂ£o estÃÂ¡ sinalizado.</ACESSO>
-<DESARQ>Nas paredes da <LIGA TERMO="nave"> nave</LIGA> da igreja paroquial de S.
+<arqelem>
+<tipo assunto="arqueossitio"></tipo>
+<identi> Monte Redondo </identi>
+<descri> Igreja </descri>
+<crono> Idade Média</crono>
+<lugar> Monte Redondo </lugar>
+<fregue> Monte Redondo </fregue>
+<concel> Arcos de Valdevez </concel>
+<codadm> 160122 </codadm>
+<latitu> 542,1 </latitu>
+<longit> 173,2 </longit>
+<altitu> 227m </altitu>
+<acesso>Junto à aldeia de Monte Redondo. O acesso faz-se por estrada municipal, a
+partir da estrada nacional EN.303 (ligação Arcos de Valdevez - Paredes de
+Coura) ou da EN.202 (ligação Arcos de Valdevez - Ponte de Lima). O monumento
+não está sinalizado.</acesso>
+<desarq>Nas paredes da <liga termo="nave"> nave</liga> da igreja paroquial de S.
 Bartolomeu de Monte Redondo conservam-se, testemunhando uma antiga
-edificaÃÂ§ÃÂ£o romÃÂ¢nica, vestÃÂ­gios dos paramentos coroados por cachorradas com
-<LIGA TERMO="modilhÃÂ£o"> modilhÃÂµes</LIGA> esculpidos, dominando os motivos
-geomÃÂ©tricos e fitomÃÂ³rficos. ÃÂ o que resta da edificaÃÂ§ÃÂ£o medieval,
-profundamente alterada por sucessivas remodelaÃÂ§ÃÂµes, em relaÃÂ§ÃÂ£o ÃÂ  qual nÃÂ£o se
-conhece qualquer referÃÂªncia ou documento coevo que permita conhecer melhor a
-sua histÃÂ³ria.</DESARQ>
-<INTERP>Igreja de fundaÃÂ§ÃÂ£o medieval.</INTERP>
-<INTERE>Trata-se de um monumento sem relevÃÂ¢ncia histÃÂ³rica local e de escasso valor
-cientÃÂ­fico e patrimonial, interessando apenas ÃÂ  compreensÃÂ£o da difusÃÂ£o do
-<LIGA TERMO="romÃÂ¢nico"> romÃÂ¢nico</LIGA> na regiÃÂ£o. </INTERE>
-<BIBLIO>ALMEIDA,C.A.F (1978a) Arquitectura RomÃÂ¢nica de Entre Douro e Minho, Tese de
+edificação românica, vestígios dos paramentos coroados por cachorradas com
+<liga termo="modilhão"> modilhões</liga> esculpidos, dominando os motivos
+geométricos e fitomórficos. É o que resta da edificação medieval,
+profundamente alterada por sucessivas remodelações, em relação à qual não se
+conhece qualquer referência ou documento coevo que permita conhecer melhor a
+sua história.</desarq>
+<interp>Igreja de fundação medieval.</interp>
+<intere>Trata-se de um monumento sem relevância histórica local e de escasso valor
+científico e patrimonial, interessando apenas à compreensão da difusão do
+<liga termo="românico"> românico</liga> na região. </intere>
+<biblio>ALMEIDA,C.A.F (1978a) Arquitectura Românica de Entre Douro e Minho, Tese de
 Doutoramento (policopiada), Faculdade de Letras da Universidade do Porto,
-Porto, 1978. </BIBLIO>
-<BIBLIO> BARREIROS, M.A.(1926)Egrejas e Capelas Romanicas da Ribeira Lima,
-EdiÃÂ§ÃÂµes Marques Abreu, Porto, 1926. </BIBLIO>
-<AUTOR> LuÃÂ­s Fontes </AUTOR>
-<DATA>04-FEV-1998</DATA>
-</ARQELEM>
+Porto, 1978. </biblio>
+<biblio> BARREIROS, M.A.(1926)Egrejas e Capelas Romanicas da Ribeira Lima,
+Edições Marques Abreu, Porto, 1926. </biblio>
+<autor> Luís Fontes </autor>
+<data>04-FEV-1998</data>
+</arqelem>

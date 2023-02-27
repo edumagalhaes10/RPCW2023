@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<ARQELEM>
-<TIPO ASSUNTO="arqueossitio"/>
-<IDENTI> Santa Cruz </IDENTI>
-<DESCRI>
-<LIGA TERMO="miliÃÂ¡rio"> MiliÃÂ¡rios</LIGA>
-</DESCRI>
-<CRONO>RomanizaÃÂ§ÃÂ£o </CRONO>
-<LUGAR> Santa Cruz (1km) </LUGAR>
-<FREGUE> Souto </FREGUE>
-<CONCEL> Terras de Bouro </CONCEL>
-<CODADM> 031014 </CODADM>
-<LATITU> 525 </LATITU>
-<LONGIT> 182,5 </LONGIT>
-<ALTITU> 130m </ALTITU>
-<ACESSO>Os <LIGA TERMO="miliÃÂ¡rio"> miliÃÂ¡rios</LIGA> estÃÂ£o actualmente de pÃÂ©, junto a
+<arqelem>
+<tipo assunto="arqueossitio"></tipo>
+<identi> Santa Cruz </identi>
+<descri>
+<liga termo="miliário"> Miliários</liga>
+</descri>
+<crono>Romanização </crono>
+<lugar> Santa Cruz (1km) </lugar>
+<fregue> Souto </fregue>
+<concel> Terras de Bouro </concel>
+<codadm> 031014 </codadm>
+<latitu> 525 </latitu>
+<longit> 182,5 </longit>
+<altitu> 130m </altitu>
+<acesso>Os <liga termo="miliário"> miliários</liga> estão actualmente de pé, junto a
 um caminho de terra batida, aproximadamente a 1km a NE do lugar de Santa
-Cruz. Foram desenterrados por uma mÃÂ¡quina e encontravam-se provavelmente in
-situ. </ACESSO>
-<DESARQ>No sÃÂ­tio referido estÃÂ£o trÃÂªs <LIGA TERMO="miliÃÂ¡rio"> miliÃÂ¡rios</LIGA>
-inteiros e outros trÃÂªs fragmentados. Em quatro deles ÃÂ© possÃÂ­vel ler-se a
+Cruz. Foram desenterrados por uma máquina e encontravam-se provavelmente in
+situ. </acesso>
+<desarq>No sítio referido estão três <liga termo="miliário"> miliários</liga>
+inteiros e outros três fragmentados. Em quatro deles é possível ler-se a
 milha XIV.
 
-MiliÃÂ¡rio de Tito e Domiciano: miliÃÂ¡rio inteiro, em granito de grÃÂ£o muito
-grosso. A inscriÃÂ§ÃÂ£o estÃÂ¡ bem conservada. Data de 80. Altura: 145; diÃÂ¢metro:
+Miliário de Tito e Domiciano: miliário inteiro, em granito de grão muito
+grosso. A inscrição está bem conservada. Data de 80. Altura: 145; diâmetro:
 50; Letras: 7,5 a 10.
 
 IMP(eratore) TITO CAES(are) DIVI VESPASIAN(i) / F(ilio) VESPASIANO AVG(usto)
@@ -33,70 +33,70 @@ VIA NOVA FACIA /
 G(aio) CALPETANO RANTIO QVIRIN[ALE] / VALERIO FESTO LEG(ato) AVG(usti)
 PROPR(aetore) / A BRACARA M(ilia) P(assuum) XIV (tetradecim)
 
-Sendo Imperador Tito CÃÂ©sar Vespasiano, filho do divino Vespasiano, Augusto,
-pontÃÂ­fice mÃÂ¡ximo, no seu nono poder tribunÃÂ­cio, saudado imperador quinze
-vezes, pai da pÃÂ¡tria, oito vezes cÃÂ´nsul, sendo CÃÂ©sar o filho do divino
-Vespasiano (Domiciano), sete vezes cÃÂ´nsul, sendo legado de Augusto e
-propretor Gaio Calpetano RÃÂ¢ncio Quirinal ValÃÂ©rio Festo, foi feita a via
-nova. Desde Braga sÃÂ£o catorze milhas.
+Sendo Imperador Tito César Vespasiano, filho do divino Vespasiano, Augusto,
+pontífice máximo, no seu nono poder tribunício, saudado imperador quinze
+vezes, pai da pátria, oito vezes cônsul, sendo César o filho do divino
+Vespasiano (Domiciano), sete vezes cônsul, sendo legado de Augusto e
+propretor Gaio Calpetano Râncio Quirinal Valério Festo, foi feita a via
+nova. Desde Braga são catorze milhas.
 
-MiliÃÂ¡rio de Caracala ?: Fragmento de um miliÃÂ¡rio de granito de grÃÂ£o muito
-grosseiro. InscriÃÂ§ÃÂ£o muito gasta e incompleta. Dela resta apenas a parte
-final do formulÃÂ¡rio, caracterÃÂ­stico das inscriÃÂ§ÃÂµes a esse imperador,
-existentes na mesma via. DatÃÂ¡vel de 214. Altura: 100; diÃÂ¢metro: 67; letras:
+Miliário de Caracala ?: Fragmento de um miliário de granito de grão muito
+grosseiro. Inscrição muito gasta e incompleta. Dela resta apenas a parte
+final do formulário, característico das inscrições a esse imperador,
+existentes na mesma via. Datável de 214. Altura: 100; diâmetro: 67; letras:
 9 a 10.
 
 .../ PONTIFICI MAX(imo) / TRIB(unicia) POT(estate) XVII (decima septima)
 IMP(eratori) III (tertium) / CO(n)S(uli) IIII (quartum) P(atri) P(atriae)
 PROCO(n)S(ul) / BRACARA M(ilia) P(assuum) XIIII (tetradecim)
 
-...PontÃÂ­fice MÃÂ¡ximo, no seu dÃÂ©cimo sÃÂ©timo poder tribunÃÂ­cio, saudado
-imperador trÃÂªs vezes, cÃÂ´nsul pela quarta vez, pai da pÃÂ¡tria, procÃÂ´nsul.
-Desde Braga sÃÂ£o catorze milhas.
+...Pontífice Máximo, no seu décimo sétimo poder tribunício, saudado
+imperador três vezes, cônsul pela quarta vez, pai da pátria, procônsul.
+Desde Braga são catorze milhas.
 
-MiliÃÂ¡rio de MagnÃÂªncio (350-353): Completo. Granito de grÃÂ£o fino. Letras bem
-desenhadas. InscriÃÂ§ÃÂ£o gasta e de difÃÂ­cil leitura a partir da 3ÃÂª linha.
-Altura: 160; diÃÂ¢metro: 63; letras: 7,5 a 9.
+Miliário de Magnêncio (350-353): Completo. Granito de grão fino. Letras bem
+desenhadas. Inscrição gasta e de difícil leitura a partir da 3ª linha.
+Altura: 160; diâmetro: 63; letras: 7,5 a 9.
 
 IMP(eratori) CAESARI D(omino) N(ostro) / MAGNENTIO VICTORI TRIVMPHATHORI
 PER[PETVO] / SEMPER AVGVSTO [INVICTO ?] MAX[IMO] P(ro) P(raetori) /
 PROCONS(uli) / IMP(eratori) BIS BONO REI[P(ublicae)] NATO / [BRACARA M(ilia)
 P(assuum) XIIII (tetradecim) ]?
 
-Ao imperador CÃÂ©sar, nosso Senhor MagnÃÂªncio, vencedor e triunfador perpÃÂ©tuo,
-Augusto para sempre invencÃÂ­vel (?) mÃÂ¡ximo, propretor, procÃÂ´nsul, duas vezes
-imperador, nado para o bem da repÃÂºblica. Desde Braga sÃÂ£o catorze milhas.
+Ao imperador César, nosso Senhor Magnêncio, vencedor e triunfador perpétuo,
+Augusto para sempre invencível (?) máximo, propretor, procônsul, duas vezes
+imperador, nado para o bem da república. Desde Braga são catorze milhas.
 
-MiliÃÂ¡rio fragmentado: Granito de grÃÂ£o muito grosso. InscriÃÂ§ÃÂ£o muito delida,
-apenas conservada na parte inferior. Altura: 115; diÃÂ¢metro: 52; letras: 9 a
+Miliário fragmentado: Granito de grão muito grosso. Inscrição muito delida,
+apenas conservada na parte inferior. Altura: 115; diâmetro: 52; letras: 9 a
 10.
 
 ../ POTEST[ATE ] / CONS(uli) IIII (QUARTUM) P(atriae) / A[BR]AC[ARA]M(ilia)
 P(assuum) XIV (tetradecim)
 
-... poder tribunÃÂ­cio, cÃÂ´nsul pela quarta vez, pai da pÃÂ¡tria. Desde Braga sÃÂ£o
+... poder tribunício, cônsul pela quarta vez, pai da pátria. Desde Braga são
 catorze milhas.
 
 
-MiliÃÂ¡rio fragmentado: Granito de grÃÂ£o muito grosso. InscriÃÂ§ÃÂ£o profunda com
-letras bem marcadas. Altura: 72; diÃÂ¢metro: 58; letras: 10.
+Miliário fragmentado: Granito de grão muito grosso. Inscrição profunda com
+letras bem marcadas. Altura: 72; diâmetro: 58; letras: 10.
 
 .../ CO(n)S(uli) III (tertium) P(atri) P(atriae) / BRACARA / M(ilia)
 P(assuum) XIIII (tetradecim)
 
-... no seu terceiro consulado, pai da pÃÂ¡tria. Desde Braga sÃÂ£o catorze
+... no seu terceiro consulado, pai da pátria. Desde Braga são catorze
 milhas.
 
-MiliÃÂ¡rio inteiro: Granito de grÃÂ£o muito grosseiro. SuperfÃÂ­cie muito
-alterada. InscriÃÂ§ÃÂ£o muito delida. Altura: 213; diÃÂ¢metro: 62/63; letras: 10.
+Miliário inteiro: Granito de grão muito grosseiro. Superfície muito
+alterada. Inscrição muito delida. Altura: 213; diâmetro: 62/63; letras: 10.
 
-MiliÃÂ¡rio fragmentado: Granito de grÃÂ£o mÃÂ©dio. NÃÂ£o possui qualquer inscriÃÂ§ÃÂ£o.
-Altura: 95; diÃÂ¢metro: 62.</DESARQ>
-<INTERP> Conjunto de seis miliÃÂ¡rios pertencentes Via Nova (Geira), datados
-entre o sÃÂ©c. I e IV. </INTERP>
-<BIBLIO> MARTINS, M. (1990) O Povoamento Proto-HistÃÂ³rico e a RomanizaÃÂ§ÃÂ£o da
-Bacia do Curso do MÃÂ©dio CÃÂ¡vado, Cadernos de Arqueologia - Monografias, 5,
-Universidade do Minho, Braga, pp. 94-95. </BIBLIO>
-<AUTOR> Manuela Martins </AUTOR>
-<DATA>04-FEV-1998</DATA>
-</ARQELEM>
+Miliário fragmentado: Granito de grão médio. Não possui qualquer inscrição.
+Altura: 95; diâmetro: 62.</desarq>
+<interp> Conjunto de seis miliários pertencentes Via Nova (Geira), datados
+entre o séc. I e IV. </interp>
+<biblio> MARTINS, M. (1990) O Povoamento Proto-Histórico e a Romanização da
+Bacia do Curso do Médio Cávado, Cadernos de Arqueologia - Monografias, 5,
+Universidade do Minho, Braga, pp. 94-95. </biblio>
+<autor> Manuela Martins </autor>
+<data>04-FEV-1998</data>
+</arqelem>

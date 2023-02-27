@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<ARQELEM>
-<TIPO ASSUNTO="arqueossitio"/>
-<IDENTI> Outeirinho </IDENTI>
-<DESCRI>
-<LIGA TERMO="povoado fortificado"> Povoado fortificado</LIGA>
-</DESCRI>
-<CRONO> Proto-HisÃÂ´toria / RomanizaÃÂ§ÃÂ£o </CRONO>
-<LUGAR> Outeirinho </LUGAR>
-<FREGUE> Vila Verde </FREGUE>
-<CONCEL> Vila Verde </CONCEL>
-<CODADM> 031357 </CODADM>
-<LATITU> 519,5 </LATITU>
-<LONGIT> 175,1 </LONGIT>
-<ALTITU> 74m </ALTITU>
-<ACESSO>O acesso a este povoado faz-se a partir de Vila Verde.</ACESSO>
-<QUADRO>.
-O povoado assenta num pequeno cabeÃÂ§o de baixa altitude situado em pleno
-vale, perto do curso do rio Homem.</QUADRO>
-<TRAARQ>NÃÂ£o sÃÂ£o conhecidos trabalhos arqueolÃÂ³gicos no local.</TRAARQ>
-<DESARQ>Pequeno povoado de baixa altitude, apenas com uma plataforma localizada na
-parte mais elevada do cabeÃÂ§o. ÃÂ superfÃÂ­cie encontram-se abundantes
-fragmentos de cerÃÂ¢mica romana e de <LIGA TERMO="tÃÂ©gula"> tÃÂ©gulas</LIGA>. O
-povoado apresenta caracterÃÂ­sticas semelhantes ao povoado do Lago, em Amares.</DESARQ>
-<INTERP>
-<LIGA TERMO="povoado fortificado"> Povoado fortificado</LIGA>
-romanizado.</INTERP>
-<BIBLIO>MARTINS, M. (1990) O Povoamento Proto-HistÃÂ³rico e a RomanizaÃÂ§ÃÂ£o da Bacia do
-Curso do MÃÂ©dio CÃÂ¡vado, Cadernos de Arqueologia - Monografias, 5,
-Universidade do Minho, Braga, pp. 102. </BIBLIO>
-<AUTOR> Manuela Martins </AUTOR>
-<DATA>04-FEV-1998</DATA>
-</ARQELEM>
+<arqelem>
+<tipo assunto="arqueossitio"></tipo>
+<identi> Outeirinho </identi>
+<descri>
+<liga termo="povoado fortificado"> Povoado fortificado</liga>
+</descri>
+<crono> Proto-His´toria / Romanização </crono>
+<lugar> Outeirinho </lugar>
+<fregue> Vila Verde </fregue>
+<concel> Vila Verde </concel>
+<codadm> 031357 </codadm>
+<latitu> 519,5 </latitu>
+<longit> 175,1 </longit>
+<altitu> 74m </altitu>
+<acesso>O acesso a este povoado faz-se a partir de Vila Verde.</acesso>
+<quadro>.
+O povoado assenta num pequeno cabeço de baixa altitude situado em pleno
+vale, perto do curso do rio Homem.</quadro>
+<traarq>Não são conhecidos trabalhos arqueológicos no local.</traarq>
+<desarq>Pequeno povoado de baixa altitude, apenas com uma plataforma localizada na
+parte mais elevada do cabeço. À superfície encontram-se abundantes
+fragmentos de cerâmica romana e de <liga termo="tégula"> tégulas</liga>. O
+povoado apresenta características semelhantes ao povoado do Lago, em Amares.</desarq>
+<interp>
+<liga termo="povoado fortificado"> Povoado fortificado</liga>
+romanizado.</interp>
+<biblio>MARTINS, M. (1990) O Povoamento Proto-Histórico e a Romanização da Bacia do
+Curso do Médio Cávado, Cadernos de Arqueologia - Monografias, 5,
+Universidade do Minho, Braga, pp. 102. </biblio>
+<autor> Manuela Martins </autor>
+<data>04-FEV-1998</data>
+</arqelem>

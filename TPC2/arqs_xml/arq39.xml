@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<ARQELEM>
-<TIPO ASSUNTO="arqueossitio"/>
-<IDENTI> Monte de Cabanas </IDENTI>
-<DESCRI> Povoado fortificado </DESCRI>
-<LUGAR/>
-<FREGUE> Dume </FREGUE>
-<CONCEL> Braga </CONCEL>
-<CODADM> 030310 </CODADM>
-<LATITU> 510,9 </LATITU>
-<LONGIT> 175,9 </LONGIT>
-<ALTITU> 190m </ALTITU>
-<QUADRO>Pequeno outeiro, profundamente destruÃÂ­do na zona superior e na encosta
-nordeste devido ÃÂ  extracÃÂ§ÃÂ£o de pedra.Totalmente destruÃÂ­do na encosta sul por
-desaterros. </QUADRO>
-<TRAARQ>Pequena escavaÃÂ§ÃÂ£o realizada em 1996 por Ana M. S. Bettencourt (U.A.U.M.)e
-Armandino Cunha (Gabinete de Arqueologia da CÃÂ¢mara Municipal de Braga).</TRAARQ>
-<DESARQ>Antes da destruiÃÂ§ÃÂ£o, para terraplanagem da vertente oeste, foi possÃÂ­vel
-verificar a existÃÂªncia de taludes artificiais, de um fosso e outras
-estruturas pÃÂ©treas, assim como fragmentos de cerÃÂ¢mica manual e micÃÂ¡cea,
-integrÃÂ¡veis, tecnicamente, na Idade do Bronze e do Ferro. As escavaÃÂ§ÃÂµes de
-emergÃÂªncia, efectuadas na plataforma superior e no inÃÂ­cio da encosta este,
-permitiram visualizar dois nÃÂ­veis de ocupaÃÂ§ÃÂ£o; um atribuÃÂ­vel ÃÂ  Idade do
-Bronze e o outro ÃÂ  Idade do Ferro recente. </DESARQ>
-<INTERP>Povoado proto-histÃÂ³rico da Idade do Bronze e do Ferro.</INTERP>
-<DEPOSI>Gabinete de Arqueologia da CÃÂ¢mara Municipal de Braga.</DEPOSI>
-<BIBLIO>FONTES, J. (1993) InventÃÂ¡rio de sÃÂ­tios e achados arqueolÃÂ³gicos do concelho
-de Braga, MÃÂ­nia, 3ÃÂª sÃÂ©rie, 1, Braga, pp. 43. </BIBLIO>
-<AUTOR> Ana M. S. Bettencourt </AUTOR>
-<DATA>04-FEV-1998</DATA>
-</ARQELEM>
+<arqelem>
+<tipo assunto="arqueossitio"></tipo>
+<identi> Monte de Cabanas </identi>
+<descri> Povoado fortificado </descri>
+<lugar></lugar>
+<fregue> Dume </fregue>
+<concel> Braga </concel>
+<codadm> 030310 </codadm>
+<latitu> 510,9 </latitu>
+<longit> 175,9 </longit>
+<altitu> 190m </altitu>
+<quadro>Pequeno outeiro, profundamente destruído na zona superior e na encosta
+nordeste devido à extracção de pedra.Totalmente destruído na encosta sul por
+desaterros. </quadro>
+<traarq>Pequena escavação realizada em 1996 por Ana M. S. Bettencourt (U.A.U.M.)e
+Armandino Cunha (Gabinete de Arqueologia da Câmara Municipal de Braga).</traarq>
+<desarq>Antes da destruição, para terraplanagem da vertente oeste, foi possível
+verificar a existência de taludes artificiais, de um fosso e outras
+estruturas pétreas, assim como fragmentos de cerâmica manual e micácea,
+integráveis, tecnicamente, na Idade do Bronze e do Ferro. As escavações de
+emergência, efectuadas na plataforma superior e no início da encosta este,
+permitiram visualizar dois níveis de ocupação; um atribuível à Idade do
+Bronze e o outro à Idade do Ferro recente. </desarq>
+<interp>Povoado proto-histórico da Idade do Bronze e do Ferro.</interp>
+<deposi>Gabinete de Arqueologia da Câmara Municipal de Braga.</deposi>
+<biblio>FONTES, J. (1993) Inventário de sítios e achados arqueológicos do concelho
+de Braga, Mínia, 3ª série, 1, Braga, pp. 43. </biblio>
+<autor> Ana M. S. Bettencourt </autor>
+<data>04-FEV-1998</data>
+</arqelem>

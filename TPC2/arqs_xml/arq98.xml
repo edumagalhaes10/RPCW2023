@@ -1,50 +1,50 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<ARQELEM>
-<TIPO ASSUNTO="arqueossitio"/>
-<IDENTI> Misarela </IDENTI>
-<DESCRI> Ponte </DESCRI>
-<CRONO> Idade MÃÂ©dia</CRONO>
-<LUGAR> Misarela </LUGAR>
-<FREGUE> Ferral </FREGUE>
-<CONCEL> Montalegre </CONCEL>
-<CODADM> 170609 </CODADM>
-<LATITU> 524,7 </LATITU>
-<LONGIT> 209,4 </LONGIT>
-<ALTITU> 314m </ALTITU>
-<ACESSO>Cerca de 1 km para Sul de SidrÃÂ³s o acesso faz-se a pÃÂ© (cerca de 10 minutos),
-pelo antigo caminho medieval, a partir da aldeia de SidrÃÂ³s. A esta acede-se
+<arqelem>
+<tipo assunto="arqueossitio"></tipo>
+<identi> Misarela </identi>
+<descri> Ponte </descri>
+<crono> Idade Média</crono>
+<lugar> Misarela </lugar>
+<fregue> Ferral </fregue>
+<concel> Montalegre </concel>
+<codadm> 170609 </codadm>
+<latitu> 524,7 </latitu>
+<longit> 209,4 </longit>
+<altitu> 314m </altitu>
+<acesso>Cerca de 1 km para Sul de Sidrós o acesso faz-se a pé (cerca de 10 minutos),
+pelo antigo caminho medieval, a partir da aldeia de Sidrós. A esta acede-se
 pela estrada EN 103-8, que liga Venda Nova a Cabril pela central
-hidroelÃÂ©ctrica de Vila Nova. O monumento estÃÂ¡ sinalizado.</ACESSO>
-<DESARQ>Ponte de tradiÃÂ§ÃÂ£o arquitectÃÂ³nica medieval, lanÃÂ§ada sobre o rio RabagÃÂ£o numa
-garganta estreita e escarpada, servindo a antiga via de penetraÃÂ§ÃÂ£o no
-baixo-Barroso ao longo do vale do CÃÂ¡vado. NotÃÂ¡vel pelas caracterÃÂ­sticas da
-sua implantaÃÂ§ÃÂ£o, chega a parecer uma construÃÂ§ÃÂ£o frÃÂ¡gil, por contraste com o
-vigor dos relevos e vegetaÃÂ§ÃÂ£o exuberante que a envolvem. ÃÂ porÃÂ©m uma obra de
-excelente execuÃÂ§ÃÂ£o, solidamente assente nas paredes granÃÂ­ticas das margens.
-Tem um sÃÂ³<LIGA TERMO="arco"> arco</LIGA> de grande amplitude, quase de volta
+hidroeléctrica de Vila Nova. O monumento está sinalizado.</acesso>
+<desarq>Ponte de tradição arquitectónica medieval, lançada sobre o rio Rabagão numa
+garganta estreita e escarpada, servindo a antiga via de penetração no
+baixo-Barroso ao longo do vale do Cávado. Notável pelas características da
+sua implantação, chega a parecer uma construção frágil, por contraste com o
+vigor dos relevos e vegetação exuberante que a envolvem. É porém uma obra de
+excelente execução, solidamente assente nas paredes graníticas das margens.
+Tem um só<liga termo="arco"> arco</liga> de grande amplitude, quase de volta
 perfeita, sem qualquer contrafortagem, apresentando no intradorso os
-encaixes do cimbre. O tabuleiro, em cavalete, com guarda pÃÂ©trea a juzante, ÃÂ©
-estreito e lajeado, desviando-se do alinhamento do<LIGA TERMO="arco">arco</LIGA> no topo Sudoeste. O aro do<LIGA TERMO="arco"> arco</LIGA>
-apresenta um <LIGA TERMO="aparelho"> aparelho</LIGA> de grande qualidade mas
+encaixes do cimbre. O tabuleiro, em cavalete, com guarda pétrea a juzante, é
+estreito e lajeado, desviando-se do alinhamento do<liga termo="arco">arco</liga> no topo Sudoeste. O aro do<liga termo="arco"> arco</liga>
+apresenta um <liga termo="aparelho"> aparelho</liga> de grande qualidade mas
 menos cuidado nos paramentos que suportam o tabuleiro sobre as margens.
-Podendo nÃÂ£o ser uma construÃÂ§ÃÂ£o cronologicamente medieval, revela
-caracterÃÂ­sticas tÃÂ©cnicas e formais dessa ÃÂ©poca, substituindo talvez uma
-ponte mais antiga que a via que por aÃÂ­ passava exigiria. Ao significado
-histÃÂ³rico (por aÃÂ­ retirou o marechal Soult em Maio de 1809, com combates
+Podendo não ser uma construção cronologicamente medieval, revela
+características técnicas e formais dessa época, substituindo talvez uma
+ponte mais antiga que a via que por aí passava exigiria. Ao significado
+histórico (por aí retirou o marechal Soult em Maio de 1809, com combates
 sangrentos na passagem da ponte), junta-se a espectacularidade da sua
-implantaÃÂ§ÃÂ£o, que lhe mereceu o epÃÂ­teto popular de "Ponte do Inferno". O
-monumento e a envolvÃÂªncia paisagÃÂ­stica apresentam-se muito bem
-conservadas.</DESARQ>
-<INTERP>Ponte de fundaÃÂ§ÃÂ£o medieval. </INTERP>
-<INTERE>Para alÃÂ©m do inegÃÂ¡vel valor patrimonial do monumento, a ponte da Misarela
-detem um inegÃÂ¡vel significado histÃÂ³rico-cultural regional.
-Classificado, como ImÃÂ³vel de Interesse PÃÂºblico (Dec. 42007, de
-6-12-1958).</INTERE>
-<BIBLIO>COSTA, J.G.(1968) Montalegre e Terras de Barroso. Montalegre, 1968.</BIBLIO>
-<BIBLIO> FONTES, L.(1992). SÃÂ­tios e Achados ArqueolÃÂ³gicos do Concelho de
-Montalegre. Braga, 1992 (ediÃÂ§ÃÂ£o policopiada da CCRN - Porto).
+implantação, que lhe mereceu o epíteto popular de "Ponte do Inferno". O
+monumento e a envolvência paisagística apresentam-se muito bem
+conservadas.</desarq>
+<interp>Ponte de fundação medieval. </interp>
+<intere>Para além do inegável valor patrimonial do monumento, a ponte da Misarela
+detem um inegável significado histórico-cultural regional.
+Classificado, como Imóvel de Interesse Público (Dec. 42007, de
+6-12-1958).</intere>
+<biblio>COSTA, J.G.(1968) Montalegre e Terras de Barroso. Montalegre, 1968.</biblio>
+<biblio> FONTES, L.(1992). Sítios e Achados Arqueológicos do Concelho de
+Montalegre. Braga, 1992 (edição policopiada da CCRN - Porto).
 No vol. I do "Minho Pitoresco", publicado em 1887, publica-se uma gravura da
-Ponte da Mizarella desenhada por J. Almeida. </BIBLIO>
-<AUTOR> Luis Fontes </AUTOR>
-<DATA>04-FEV-1998</DATA>
-</ARQELEM>
+Ponte da Mizarella desenhada por J. Almeida. </biblio>
+<autor> Luis Fontes </autor>
+<data>04-FEV-1998</data>
+</arqelem>

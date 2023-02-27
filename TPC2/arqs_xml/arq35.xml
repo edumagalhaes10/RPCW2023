@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<ARQELEM>
-<TIPO ASSUNTO="arqueossitio"/>
-<IDENTI> Lugar da Igreja; PanÃÂ³ias </IDENTI>
-<DESCRI>
-<LIGA TERMO="miliÃÂ¡rio"> MiliÃÂ¡rio</LIGA>
-</DESCRI>
-<LUGAR> Lugar da Igreja </LUGAR>
-<FREGUE> PanÃÂ³ias </FREGUE>
-<CONCEL> Braga </CONCEL>
-<CODADM> 030332 </CODADM>
-<LATITU> 511,6 </LATITU>
-<LONGIT> 172,4 </LONGIT>
-<ALTITU> 53m </ALTITU>
-<ACESSO> O miliÃÂ¡rio encontra-se no Lugar da Igreja, onde serve de
-cruzeiro.</ACESSO>
-<QUADRO> Foi identificado por Albano Belino, em 1896, no sÃÂ­tio onde
-actualmente se encontra a servir de cruzeiro. Ignora-se a sua procedÃÂªncia
-inicial. </QUADRO>
-<DESARQ>
-<LIGA TERMO="miliÃÂ¡rio"> MiliÃÂ¡rio</LIGA> em granito, com epÃÂ­grafe,
-pertencente ÃÂ  via XIX. Quer Albano Belino, quer C. Alberto Brochado de
-Almeida consideram-no deslocado do sÃÂ­tio onde passaria a via. O primeiro,
-julga-o originÃÂ¡rio de CervÃÂ£es, Vila Verde. O segundo, das imediaÃÂ§ÃÂµes de
-Prado, tambÃÂ©m em Vila Verde. Encontra-se invertido, sendo por isso difÃÂ­cil
-de ler a inscriÃÂ§ÃÂ£o. Altura: 245; Letras: 8. Existem duas inscriÃÂ§ÃÂµes, ambas
-incompletas: a inscriÃÂ§ÃÂ£o primitiva seria de TibÃÂ©rio; a reinscriÃÂ§ÃÂ£o serÃÂ¡ do
+<arqelem>
+<tipo assunto="arqueossitio"></tipo>
+<identi> Lugar da Igreja; Panóias </identi>
+<descri>
+<liga termo="miliário"> Miliário</liga>
+</descri>
+<lugar> Lugar da Igreja </lugar>
+<fregue> Panóias </fregue>
+<concel> Braga </concel>
+<codadm> 030332 </codadm>
+<latitu> 511,6 </latitu>
+<longit> 172,4 </longit>
+<altitu> 53m </altitu>
+<acesso> O miliário encontra-se no Lugar da Igreja, onde serve de
+cruzeiro.</acesso>
+<quadro> Foi identificado por Albano Belino, em 1896, no sítio onde
+actualmente se encontra a servir de cruzeiro. Ignora-se a sua procedência
+inicial. </quadro>
+<desarq>
+<liga termo="miliário"> Miliário</liga> em granito, com epígrafe,
+pertencente à via XIX. Quer Albano Belino, quer C. Alberto Brochado de
+Almeida consideram-no deslocado do sítio onde passaria a via. O primeiro,
+julga-o originário de Cervães, Vila Verde. O segundo, das imediações de
+Prado, também em Vila Verde. Encontra-se invertido, sendo por isso difícil
+de ler a inscrição. Altura: 245; Letras: 8. Existem duas inscrições, ambas
+incompletas: a inscrição primitiva seria de Tibério; a reinscrição será do
 tempo de Valentiniano e Valente.
 
-InscriÃÂ§ÃÂ£o primitiva: Deveria ser semelhante ÃÂ  que se encontra no miliÃÂ¡rio da
+Inscrição primitiva: Deveria ser semelhante à que se encontra no miliário da
 Quinta de Germil, que assinala a milha II da mesma via. Pode ser datada de
 32-33.
 
@@ -35,28 +35,28 @@ Quinta de Germil, que assinala a milha II da mesma via. Pode ser datada de
 IMP(erator) VIII (octavum) CONSVL V (quintum) TRIB(unicia) PO / TEST(ate)
 XXXIV (trigesima quarta) BRACARAVG(usta) (tria / quattuor? milia passuum)
 
-(TibÃÂ©rio CÃÂ©sar Augusto, filho do divino Augusto, neto do divino JÃÂºlio,
-PontÃÂ­fice MÃÂ¡ximo), saudado imperador oito vezes, cÃÂ´nsul pela quinta vez, no
-trigÃÂ©simo quarto poder tribunÃÂ­cio. Desde Braga sÃÂ£o trÃÂªs/ quatro ? milhas.
+(Tibério César Augusto, filho do divino Augusto, neto do divino Júlio,
+Pontífice Máximo), saudado imperador oito vezes, cônsul pela quinta vez, no
+trigésimo quarto poder tribunício. Desde Braga são três/ quatro ? milhas.
 
-ReinscriÃÂ§ÃÂ£o: Feita no tempo de Valentiniano e Valente. DatÃÂ¡vel de 364-367.
+Reinscrição: Feita no tempo de Valentiniano e Valente. Datável de 364-367.
 
 D(ominis) N(ostris duobus) VALENTINIANO / ET VALENTI FOR/ TISSIMIS PRINCIPI/
 BVS SEMP(er) AVGVSTIS BRACARAVG(usta) III / IIII (tria/ quattuor ? milia
 passuum)
 
-Aos nossos dois senhores Valentiniano e Valente fortÃÂ­ssimos prÃÂ­ncipes,
-Augustos para sempre. Desde Braga sÃÂ£o trÃÂªs / quatro ? milhas.</DESARQ>
-<INTERP> MiliÃÂ¡rio da Via XIX, datado de 32-33, regravado entre 364-367.</INTERP>
-<BIBLIO> BELINO, A. (1896). Novas inscriÃÂ§ÃÂµes romanas de Braga, Braga
+Aos nossos dois senhores Valentiniano e Valente fortíssimos príncipes,
+Augustos para sempre. Desde Braga são três / quatro ? milhas.</desarq>
+<interp> Miliário da Via XIX, datado de 32-33, regravado entre 364-367.</interp>
+<biblio> BELINO, A. (1896). Novas inscrições romanas de Braga, Braga
 pp.45-48.
-ALMEIDA, C. A. B. (1979a). A rede viÃÂ¡ria do Conventus Bracaraugustanus - Via
-Bracara-Asturicam Quarta, MÃÂ­nia, 2 (3), Braga. pp.100, 101, 143. </BIBLIO>
-<BIBLIO> ARAÃÂJO, J. R. (1982). Os miliÃÂ¡rios da estrada romana de Braga a
-Tuy. O Distrito de Braga, 5 (9), 2a. sÃÂ©rie, pp.147-148. </BIBLIO>
-<BIBLIO> MARTINS, M. (1990) O Povoamento Proto-HistÃÂ³rico e a RomanizaÃÂ§ÃÂ£o da
-Bacia do Curso do MÃÂ©dio CÃÂ¡vado, Cadernos de Arqueologia - Monografias, 5,
-Universidade do Minho, Braga, pp. 85. </BIBLIO>
-<AUTOR> Manuela Martins </AUTOR>
-<DATA>04-FEV-1998</DATA>
-</ARQELEM>
+ALMEIDA, C. A. B. (1979a). A rede viária do Conventus Bracaraugustanus - Via
+Bracara-Asturicam Quarta, Mínia, 2 (3), Braga. pp.100, 101, 143. </biblio>
+<biblio> ARAÚJO, J. R. (1982). Os miliários da estrada romana de Braga a
+Tuy. O Distrito de Braga, 5 (9), 2a. série, pp.147-148. </biblio>
+<biblio> MARTINS, M. (1990) O Povoamento Proto-Histórico e a Romanização da
+Bacia do Curso do Médio Cávado, Cadernos de Arqueologia - Monografias, 5,
+Universidade do Minho, Braga, pp. 85. </biblio>
+<autor> Manuela Martins </autor>
+<data>04-FEV-1998</data>
+</arqelem>

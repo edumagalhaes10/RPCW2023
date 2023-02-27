@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<ARQELEM>
-<TIPO ASSUNTO="arqueossitio"/>
-<IDENTI> Cervos </IDENTI>
-<DESCRI> Igreja </DESCRI>
-<CRONO> Idade MÃÂ©dia</CRONO>
-<LUGAR> Cervos </LUGAR>
-<FREGUE> Cervos </FREGUE>
-<CONCEL> Montalegre </CONCEL>
-<CODADM> 170603 </CODADM>
-<LATITU> 529,9 </LATITU>
-<LONGIT> 237,5 </LONGIT>
-<ALTITU> 855m </ALTITU>
-<ACESSO>O acesso faz-se pela estrada municipal alcatroada que liga a povoaÃÂ§ÃÂ£o
-directamente ÃÂ  estrada EN 103, na direcÃÂ§ÃÂ£o Montalegre - Boticas. O monumento
-nÃÂ£o estÃÂ¡ sinalizado.</ACESSO>
-<DESARQ>Em torno da igreja paroquial, no interior do adro murado, vÃÂªem-se tampas de
-sepulturas com decoraÃÂ§ÃÂ£o simples, muito erodidas por reutilizaÃÂ§ÃÂ£o em
-pavimento e um <LIGA TERMO="sarcÃÂ³fago"> sarcÃÂ³fago</LIGA> antropomÃÂ³rfico, em
-granito. Trata-se de vestÃÂ­gios da <LIGA TERMO="necrÃÂ³pole"> necrÃÂ³pole</LIGA>
-baixo-medieval, testemunhadores da antiga prÃÂ¡tica de enterrar os paroquianos
-no adro envolvente da igreja, ÃÂ  sombra protectora do edifÃÂ­cio sagrado. NÃÂ£o
-se conhecem outras referÃÂªncias histÃÂ³rico-arqueolÃÂ³gicas
-contextualizadoras.</DESARQ>
-<INTERP>Igreja e necrÃÂ³pole tardo-medievais.</INTERP>
-<INTERE>Embora razoavelmente conservados, os elementos descritos nÃÂ£o tÃÂªm, no
+<arqelem>
+<tipo assunto="arqueossitio"></tipo>
+<identi> Cervos </identi>
+<descri> Igreja </descri>
+<crono> Idade Média</crono>
+<lugar> Cervos </lugar>
+<fregue> Cervos </fregue>
+<concel> Montalegre </concel>
+<codadm> 170603 </codadm>
+<latitu> 529,9 </latitu>
+<longit> 237,5 </longit>
+<altitu> 855m </altitu>
+<acesso>O acesso faz-se pela estrada municipal alcatroada que liga a povoação
+directamente à estrada EN 103, na direcção Montalegre - Boticas. O monumento
+não está sinalizado.</acesso>
+<desarq>Em torno da igreja paroquial, no interior do adro murado, vêem-se tampas de
+sepulturas com decoração simples, muito erodidas por reutilização em
+pavimento e um <liga termo="sarcófago"> sarcófago</liga> antropomórfico, em
+granito. Trata-se de vestígios da <liga termo="necrópole"> necrópole</liga>
+baixo-medieval, testemunhadores da antiga prática de enterrar os paroquianos
+no adro envolvente da igreja, à sombra protectora do edifício sagrado. Não
+se conhecem outras referências histórico-arqueológicas
+contextualizadoras.</desarq>
+<interp>Igreja e necrópole tardo-medievais.</interp>
+<intere>Embora razoavelmente conservados, os elementos descritos não têm, no
 contexto regional, grande valor patrimonial nem revestem particular
-significado histÃÂ³rico.</INTERE>
-<BIBLIO>FONTES L. (1992) SÃÂ­tios e Achados ArqueolÃÂ³gicos do Concelho de
-Montalegre. Braga, 1992 (ediÃÂ§ÃÂ£o policopiada da CCRN - Porto). </BIBLIO>
-<AUTOR> Luis Fontes </AUTOR>
-<DATA>04-FEV-1998</DATA>
-</ARQELEM>
+significado histórico.</intere>
+<biblio>FONTES L. (1992) Sítios e Achados Arqueológicos do Concelho de
+Montalegre. Braga, 1992 (edição policopiada da CCRN - Porto). </biblio>
+<autor> Luis Fontes </autor>
+<data>04-FEV-1998</data>
+</arqelem>

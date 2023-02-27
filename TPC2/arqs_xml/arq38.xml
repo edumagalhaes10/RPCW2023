@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<ARQELEM>
-<TIPO ASSUNTO="arqueossitio"/>
-<IDENTI> S. Bento de BalugÃÂ£es </IDENTI>
-<DESCRI> Sepultura </DESCRI>
-<CRONO> PrÃÂ©-HistÃÂ³ria Recente</CRONO>
-<LUGAR> S. Bento </LUGAR>
-<FREGUE> BalugÃÂ£es </FREGUE>
-<CONCEL> Barcelos </CONCEL>
-<CODADM> 030212 </CODADM>
-<LATITU> 519,1 </LATITU>
-<LONGIT> 158,2 </LONGIT>
-<ALTITU> 70m </ALTITU>
-<QUADRO>PlanÃÂ­cie, a Sul da antiga estrada real entre Braga e Viana do
-Castelo.</QUADRO>
-<DESARQ>Numa<LIGA TERMO="cista"> cista</LIGA>de enterramento individial, descoberta
+<arqelem>
+<tipo assunto="arqueossitio"></tipo>
+<identi> S. Bento de Balugães </identi>
+<descri> Sepultura </descri>
+<crono> Pré-História Recente</crono>
+<lugar> S. Bento </lugar>
+<fregue> Balugães </fregue>
+<concel> Barcelos </concel>
+<codadm> 030212 </codadm>
+<latitu> 519,1 </latitu>
+<longit> 158,2 </longit>
+<altitu> 70m </altitu>
+<quadro>Planície, a Sul da antiga estrada real entre Braga e Viana do
+Castelo.</quadro>
+<desarq>Numa<liga termo="cista"> cista</liga>de enterramento individial, descoberta
 casualmente, exumaram-se quatro pontas de tipo "Palmela", uma das quais
 desapareceu e uma gargantilha de tiras, efectuada, por martelagem sobre ouro
-laminado. ÃÂ rematada por apÃÂªndices arredondados. A propÃÂ³sito deste achado
-diz S. da Veiga (1891:46):"sabe-se que era excavada no sÃÂ³lo; nÃÂ£o se diz se
-tinha revestimento de lages toscas (...) ha, porÃÂ©m, lembraÃÂ§a de que estava
-pela linha norte-sul. (...) NÃÂ¹m angulo do topo norte estavam quatro frechas
+laminado. É rematada por apêndices arredondados. A propósito deste achado
+diz S. da Veiga (1891:46):"sabe-se que era excavada no sólo; não se diz se
+tinha revestimento de lages toscas (...) ha, porém, lembraça de que estava
+pela linha norte-sul. (...) Nùm angulo do topo norte estavam quatro frechas
 de cobre acompanhadas de um diadema de ouro, e diz-se que nada continha". Os
-paralelos para esta jÃÂ³ia existentes no Noroeste peninsular, na Estremadura
-portuguesa e na costa atlÃÂ¢ntica francesa, permitem inseri-la,
-hipoteticamente, na 2ÃÂª metade do IIIÃÂº milÃÂ©nio A.C. </DESARQ>
-<INTERP>Sepultura da Idade do Bronze </INTERP>
-<DEPOSI>Museu Nacional de Arqueologia, tendo desaparecido a gargantilha.</DEPOSI>
-<BIBLIO>VEIGA, S. (1891) Antiguidades monumentaes do Algarve, Ed. Imprensa Nacional,
-vol. 4, Lisboa: 38, 45-48, est. 2. 27-29, est. 4. 3.6 </BIBLIO>
-<BIBLIO> HARBISON, P (1968) TrÃÂªs tipos de machados de bronze do Norte de
-Portugal e suas provÃÂ¡veis origens, Revista de GuimarÃÂ£es, 78 (1-2), GuimarÃÂ£es
-pp. 52 </BIBLIO>
-<BIBLIO> SCHUBART, H. (1971) Acerca de la ceramica del Bronze Tardio en el
-Sur y Oeste peninsular, Trabajos de prehistoria, 8, Madrid, pp. 207</BIBLIO>
-<BIBLIO> HERNANDO GONZALO, A. (1983) La orfebreria durante el CalcolÃÂ­tico y
-el Bronce AntÃÂ­gua en la Peninsula Iberica, Trabajos de Prehistoria, 40,
-Madrid pp. 92-94 </BIBLIO>
-<BIBLIO> JORGE, S. (1986) Povoados da prÃÂ©-histÃÂ³ria recente (IIIÃÂº- inÃÂ­cio do
-IIÃÂº milÃÂ©nios a.C.) da regiÃÂ£o de Chaves e V.ÃÂª PÃÂª de Aguiar (TrÃÂ¡s-os-Oontes
+paralelos para esta jóia existentes no Noroeste peninsular, na Estremadura
+portuguesa e na costa atlântica francesa, permitem inseri-la,
+hipoteticamente, na 2ª metade do IIIº milénio A.C. </desarq>
+<interp>Sepultura da Idade do Bronze </interp>
+<deposi>Museu Nacional de Arqueologia, tendo desaparecido a gargantilha.</deposi>
+<biblio>VEIGA, S. (1891) Antiguidades monumentaes do Algarve, Ed. Imprensa Nacional,
+vol. 4, Lisboa: 38, 45-48, est. 2. 27-29, est. 4. 3.6 </biblio>
+<biblio> HARBISON, P (1968) Três tipos de machados de bronze do Norte de
+Portugal e suas prováveis origens, Revista de Guimarães, 78 (1-2), Guimarães
+pp. 52 </biblio>
+<biblio> SCHUBART, H. (1971) Acerca de la ceramica del Bronze Tardio en el
+Sur y Oeste peninsular, Trabajos de prehistoria, 8, Madrid, pp. 207</biblio>
+<biblio> HERNANDO GONZALO, A. (1983) La orfebreria durante el Calcolítico y
+el Bronce Antígua en la Peninsula Iberica, Trabajos de Prehistoria, 40,
+Madrid pp. 92-94 </biblio>
+<biblio> JORGE, S. (1986) Povoados da pré-história recente (IIIº- início do
+IIº milénios a.C.) da região de Chaves e V.ª Pª de Aguiar (Trás-os-Oontes
 ocidental), Ed. Instituto de Arqueologia da Faculdade de Letras, Porto, 3
-vols. </BIBLIO>
-<BIBLIO> ALMEIDA, C. A. B. (1990b) InventÃÂ¡rio arqueolÃÂ³gico: uma viagem ao
-passado arqueolÃÂ³gico de BalugÃÂ£es, Barcelos-Revista, pp. 133 </BIBLIO>
-<AUTOR>Ana M. S. Bettencourt </AUTOR>
-<DATA>04-FEV-1998</DATA>
-</ARQELEM>
+vols. </biblio>
+<biblio> ALMEIDA, C. A. B. (1990b) Inventário arqueológico: uma viagem ao
+passado arqueológico de Balugães, Barcelos-Revista, pp. 133 </biblio>
+<autor>Ana M. S. Bettencourt </autor>
+<data>04-FEV-1998</data>
+</arqelem>

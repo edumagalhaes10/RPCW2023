@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<ARQELEM>
-<TIPO ASSUNTO="arqueossitio"/>
-<IDENTI> Lugar de Coto; PÃÂ³voa; Lugar do Reduto </IDENTI>
-<DESCRI>
-<LIGA TERMO="povoado fortificado"> Povoado fortificado</LIGA>
-</DESCRI>
-<CRONO> Proto-HistÃÂ³ria </CRONO>
-<LUGAR> Lugar de Coto </LUGAR>
-<FREGUE> DossÃÂ£os </FREGUE>
-<CONCEL> Vila Verde </CONCEL>
-<CODADM> 031313 </CODADM>
-<LATITU> 523,2 </LATITU>
-<LONGIT> 172,2 </LONGIT>
-<ALTITU> 250m </ALTITU>
-<ACESSO>O acesso faz-se por caminho de pÃÂ© posto a partir de DossÃÂ£os.</ACESSO>
-<QUADRO>O <LIGA TERMO="castro"> castro</LIGA> ocupa um pequeno outeiro situado na
+<arqelem>
+<tipo assunto="arqueossitio"></tipo>
+<identi> Lugar de Coto; Póvoa; Lugar do Reduto </identi>
+<descri>
+<liga termo="povoado fortificado"> Povoado fortificado</liga>
+</descri>
+<crono> Proto-História </crono>
+<lugar> Lugar de Coto </lugar>
+<fregue> Dossãos </fregue>
+<concel> Vila Verde </concel>
+<codadm> 031313 </codadm>
+<latitu> 523,2 </latitu>
+<longit> 172,2 </longit>
+<altitu> 250m </altitu>
+<acesso>O acesso faz-se por caminho de pé posto a partir de Dossãos.</acesso>
+<quadro>O <liga termo="castro"> castro</liga> ocupa um pequeno outeiro situado na
 vertente este do monte de Moinho Velho, que constitui um prolongamento para
-SE do monte do Borrelho, importante acidente geogrÃÂ¡fico do concelho de Vila
+SE do monte do Borrelho, importante acidente geográfico do concelho de Vila
 Verde. O outeiro encontra-se virado a um pequeno vale, onde se localiza a
-sede de freguesia.</QUADRO>
-<TRAARQ>NÃÂ£o sÃÂ£o conhecidos trabalhos arqueolÃÂ³gicos no local.</TRAARQ>
-<DESARQ>O povoado ÃÂ© relativamente pequeno e possui apenas duas plataformas, em cujos
-limites ÃÂ© possÃÂ­vel notar restos de fortificaÃÂ§ÃÂµes. Na superfÃÂ­cie do cabeÃÂ§o
-recolhem-se fragmentos de cerÃÂ¢mica, sobretudo de <LIGA TERMO="tÃÂ©gula">tÃÂ©gulas</LIGA>.</DESARQ>
-<INTERP>
-<LIGA TERMO="povoado fortificado"> Povoado fortificado</LIGA>
-romanizado. </INTERP>
-<BIBLIO> VIEIRA, J. A. (1886). O Minho pitoresco, Lisboa, 2 vols. pp. 404.</BIBLIO>
-<BIBLIO>MARTINS, M. (1990) O Povoamento Proto-HistÃÂ³rico e a RomanizaÃÂ§ÃÂ£o da Bacia do
-Curso do MÃÂ©dio CÃÂ¡vado, Cadernos de Arqueologia - Monografias, 5,
-Universidade do Minho, Braga, pp. 97-98. </BIBLIO>
-<AUTOR> Manuela Martins </AUTOR>
-<DATA>04-FEV-1998</DATA>
-</ARQELEM>
+sede de freguesia.</quadro>
+<traarq>Não são conhecidos trabalhos arqueológicos no local.</traarq>
+<desarq>O povoado é relativamente pequeno e possui apenas duas plataformas, em cujos
+limites é possível notar restos de fortificações. Na superfície do cabeço
+recolhem-se fragmentos de cerâmica, sobretudo de <liga termo="tégula">tégulas</liga>.</desarq>
+<interp>
+<liga termo="povoado fortificado"> Povoado fortificado</liga>
+romanizado. </interp>
+<biblio> VIEIRA, J. A. (1886). O Minho pitoresco, Lisboa, 2 vols. pp. 404.</biblio>
+<biblio>MARTINS, M. (1990) O Povoamento Proto-Histórico e a Romanização da Bacia do
+Curso do Médio Cávado, Cadernos de Arqueologia - Monografias, 5,
+Universidade do Minho, Braga, pp. 97-98. </biblio>
+<autor> Manuela Martins </autor>
+<data>04-FEV-1998</data>
+</arqelem>
