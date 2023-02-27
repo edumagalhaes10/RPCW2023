@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifesto>
+    <meta>
+        <título>RPCW - TPC2</título>
+        <data>2023-02-26</data>
+        <autor>
+            <nome>Eduardo Costa de Magalhães</nome>
+            <id>PG50352</id>
+            <gitlink>https://github.com/edumagalhaes10/RPCW2023</gitlink>
+        </autor>
+        <uc>RPCW</uc>
+    </meta>
+    <resumo>
+        <p>Este TPC consite na criação de um servidor de registos de um dataset.</p>
+        <p>Para a resolução do TPC, foi necessário utilizar BeautifulSoup e lxml de modo a dividir o dataset registo a registo. Para cada registo foi criado um ficheiro XML com as informações do mesmo.</p>
+        <p>Foi também necessário criar um servidor nodejs para servir cada registo conforme solicitados no browser.</p>
+        <p>Para facilitar, foi criada uma página "index.html" que lista todos os registos do dataset.</p>
+        <p>Numa fase final do trabalho foi também feita a conversão dos ficheiros XML gerados com o conteúdo dos registos para ficheiros HTML.</p>
+    </resumo>
+    <resultados>
+        <resultado path="treat_arqDataset.py">Ficheiro python criado para desmembrar o dataset e criar os ficheiros XML e HTML com o conteúdo de cada elemento do dataset.</resultado>
+        <resultado path="servidor_arq.js">Servidor de registos nodejs</resultado>
+        <resultado path="arq.xml">Dataset dos Arqueossítios</resultado>
+        <resultado path="index.html">Página HTML que lista todos os registos do dataset</resultado>
+        <resultado path="/arqs_xml">Pasta que contém os ficheiros XML gerados</resultado>
+        <resultado path="/arqs_html">Pasta que contém os ficheiros HTML gerados</resultado>
+    </resultados>
+</manifesto>
