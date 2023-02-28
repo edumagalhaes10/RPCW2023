@@ -1,4 +1,6 @@
+from dataclasses import replace
 from bs4 import BeautifulSoup as bSoup
+from sqlalchemy import false
 
 def divide_Arq():
     with open('arq.xml', 'r') as f:
@@ -46,10 +48,42 @@ def info_dictionary(soup):
             # print(pairList)
     return pairList
 
+def replaceTags(pairList):
+    replaceDict = {
+        "identi": "identi",
+        "tipo": "Tipo",
+        "imagem": "Imagem",
+        "descri": "Descrição",
+        "lugar": "Lugar",
+        "fregue": "Freguesia",
+        "concel": "Concelho",
+        "codadm": "Cód. Administrativo",
+        "latitu": "Latitude",
+        "longit": "Longitude",
+        "altitu": "Altitude",
+        "quadro": "Quadro",
+        "acesso": "Acesso",
+        "desarq": "Desarq",
+        "liga": "Liga",
+        "interp": "Interp",
+        "deposi": "Deposi",
+        "biblio": "Biblio",
+        "autor": "Autor",
+        "data": "Data",
+        "crono": "Tempo cronológico",
+        "traarq": "Trabalho Arqueológico",
+        "intere": "Interesse"
+    }
+    new_pairList = []
+    for pair in pairList:
+        new_pairList.append((replaceDict[pair[0]],pair[1]))
+    
+    return new_pairList
+
 def dict2html(pairList, i):
     pair = next((p for p in pairList if p[0] == "identi"), None)
 
-    # ident = [item for item in pairList if pairList[0] == "identi"]
+    pairList = replaceTags(pairList)
 
     html = f"""<!DOCTYPE html>
     <html>
@@ -60,11 +94,28 @@ def dict2html(pairList, i):
         <body>
             <h1>{pair[1]}</h1>
     """
+    liga = False
     for item in pairList:
         if item[0] != "identi":
-            html += f"""
-                            <p><b>{item[0]}</b>: {item[1]}</p>
+            if item[0] == "Liga":
+                if liga == False:                    
+                    liga = True
+                    html += """
+                            <ul>
                     """
+                html += f"""
+                            <li><b>{item[0]}</b>: {item[1]}</li>
+                        """
+            else:
+                if liga == True: 
+                    liga = False
+                    html += """
+                            </ul>
+                    """
+                html += f"""
+                            <p><b>{item[0]}</b>: {item[1]}</p>
+                        """
+
 
     html +="""
         <p> <a href="/">[Voltar ao Índice]</a></p>
