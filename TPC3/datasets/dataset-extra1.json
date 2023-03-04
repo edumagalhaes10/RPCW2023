@@ -103543,7 +103543,12 @@
             "sexo": "masculino",
             "morada": {
                 "cidade": "Valpaços"
-            }
+            },
+            "desportos": [
+                "Futebol",
+                "Futsal"
+            ],
+            "profissao":"Estudante"
         }
     ]
 }
