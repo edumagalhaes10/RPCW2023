@@ -18,3 +18,6 @@ def add_ID(filename):
 
 
 add_ID('datasets/dataset-extra1.json')
+add_ID('datasets/dataset-extra2.json')
+add_ID('datasets/dataset-extra3.json')
+add_ID('datasets/dataset.json')
