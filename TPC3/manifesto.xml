@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifesto>
+    <meta>
+        <título>RPCW - TPC3</título>
+        <data>2023-03-05</data>
+        <autor>
+            <nome>Eduardo Costa de Magalhães</nome>
+            <id>PG50352</id>
+            <gitlink>https://github.com/edumagalhaes10/RPCW2023</gitlink>
+        </autor>
+        <uc>RPCW</uc>
+    </meta>
+    <resumo>
+        <p>Este TPC consite na criação de um serviço de consulta sobre o dataset de pessoas.</p>
+        <p>Para a resolução do TPC, foi necessário codificar um ficheiro python que adicionasse o campo id a cada registo de cada dataset para criar uma API de dados utilizando json-server.</p>
+        <p>Foram criados diversos ficheiros js que geram dinamicamente páginas html de modo a satisfazer os requisitos solicitados para este TPC.</p>
+        <p>Foi necessário codificar um servidor nodejs e utilizar axios de modo a que cada requisito solicitado para o TPC fosse satisfazido quando solicitado através de um browser.</p>
+        <p>Foram utilizados ficheiros css de modo a personalizar as páginas web criadas.</p>
+    </resumo>
+    <resultados>
+        <resultado path="add_id.py">Ficheiro python criado para adicionar um campo id a cada registo do dataset.</resultado>
+        <resultado path="index.html">Página HTML principal</resultado>
+        <resultado path="server.js">Servidor nodejs do serviço de consulta</resultado>
+        <resultado path="peoplePage.js">Ficheiro js que gera uma página html com a tabela de registos fornecida.</resultado>
+        <resultado path="person_info.js">Ficheiro js que gera uma página html com a informação de uma pessoa.</resultado>
+        <resultado path="statisticsPage.js">Ficheiro js que gera as páginas html com as estatísticas relativas à distribuição por sexo, desporto e ao top 10 de profissões.</resultado>
+        <resultado path="w3.css">Ficheiro css utilizado em algumas páginas html.</resultado>
+        <resultado path="style.css">Ficheiro css da W3Schools utilizado em todas as páginas html geradas.</resultado>
+        <resultado path="/datasets">Pasta que contém datasets que podem ser utilizados com o json-server.</resultado>
+    </resultados>
+</manifesto>
