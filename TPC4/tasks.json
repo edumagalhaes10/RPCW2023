@@ -1,0 +1,46 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "name": "Edu",
+      "deadline": "10/03/2023",
+      "description": "Comprar pão",
+      "done": "no"
+    },
+    {
+      "id": 2,
+      "name": "Edu",
+      "deadline": "10/03/2023",
+      "description": "Comprar carne",
+      "done": "no"
+    },
+    {
+      "id": 3,
+      "name": "Edu",
+      "deadline": "10/03/2023",
+      "description": "Comprar peluche macaco",
+      "done": "no"
+    },
+    {
+      "id": 4,
+      "name": "Edu",
+      "deadline": "10/03/2023",
+      "description": "Comprar azeite",
+      "done": "yes"
+    },
+    {
+      "name": "Edu",
+      "deadline": "2023-03-18",
+      "description": "Comprar prenda Mariana",
+      "done": "no",
+      "id": 5
+    },
+    {
+      "name": "Gonçalo",
+      "deadline": "2023-03-15",
+      "description": "Comprar bolachas",
+      "done": "no",
+      "id": 6
+    }
+  ]
+}
