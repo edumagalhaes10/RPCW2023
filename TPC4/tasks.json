@@ -3,28 +3,28 @@
     {
       "id": 1,
       "name": "Edu",
-      "deadline": "10/03/2023",
+      "deadline": "2023-03-15",
       "description": "Comprar pão",
-      "done": "no"
+      "done": "yes"
     },
     {
       "id": 2,
       "name": "Edu",
-      "deadline": "10/03/2023",
+      "deadline": "2023-03-15",
       "description": "Comprar carne",
-      "done": "no"
+      "done": "yes"
     },
     {
       "id": 3,
-      "name": "Edu",
-      "deadline": "10/03/2023",
+      "name": "Ana Maria",
+      "deadline": "2023-03-15",
       "description": "Comprar peluche macaco",
       "done": "no"
     },
     {
       "id": 4,
       "name": "Edu",
-      "deadline": "10/03/2023",
+      "deadline": "2023-03-10",
       "description": "Comprar azeite",
       "done": "yes"
     },
@@ -36,11 +36,32 @@
       "id": 5
     },
     {
+      "id": 6,
       "name": "Gonçalo",
       "deadline": "2023-03-15",
       "description": "Comprar bolachas",
+      "done": "yes"
+    },
+    {
+      "name": "Mariana",
+      "deadline": "2023-03-16",
+      "description": "Cider",
       "done": "no",
-      "id": 6
+      "id": 7
+    },
+    {
+      "name": "Diogo ",
+      "deadline": "2023-03-21",
+      "description": "Fazer bolo",
+      "done": "no",
+      "id": 8
+    },
+    {
+      "id": 9,
+      "name": "Edu",
+      "deadline": "2023-03-24",
+      "description": "Trabalho de Investigação S&A",
+      "done": "no"
     }
   ]
 }

@@ -20,17 +20,6 @@ function collectRequestBodyData(request, callback) {
     }
 }
 
-function resultToTask(result) {
-    axios.get("http://localhost:3000/tasks?_sort=id&_order=desc&_limit=1")
-        .then(function(response){
-            var id = response.data[0].id
-            console.log(id)
-        })
-        .catch(erro => {
-            console.log("Erro: "+ erro)
-        })
-
-}
 
 var toDoServer = http.createServer(function (req, res) {
     // Logger: what was requested and when it was requested
@@ -65,28 +54,79 @@ var toDoServer = http.createServer(function (req, res) {
                 break
             }
             case "POST":{
-                 // POST /persons -------------------------------------------------------------------
-                 collectRequestBodyData(req, result => {
-                    if(result){
-                        // console.log(result)
-                        axios.post("http://localhost:3000/tasks",{
-                            name: result.name,
-                            deadline: result.deadline,
-                            description: result.description,
-                            done: "no" 
-                        })
-                        .catch(erro => {
-                            console.log("Erro: "+ erro)
-                            res.writeHead(201,{'Content-Type': 'text/html; charset=utf-8'})
-                            res.end("ERRO: "+ erro)
-                        })   
-                    }
-                    else{
-                        res.writeHead(201, {'Content-Type': 'text/html;charset=utf-8'})
-                        res.write("<p>Unable to collect data from body...</p>")
-                        res.end()
-                    }
-                });
+                if(req.url == "/"){
+                    collectRequestBodyData(req, task => {
+                        if(task){
+                            task["done"] = "no"
+                            // console.log(task)
+                            axios.post("http://localhost:3000/tasks",task)
+                            .catch(erro => {
+                                console.log("Erro: "+ erro)
+                                res.writeHead(201,{'Content-Type': 'text/html; charset=utf-8'})
+                                res.end("ERRO: "+ erro)
+                            })   
+                        }
+                        else{
+                            res.writeHead(201, {'Content-Type': 'text/html;charset=utf-8'})
+                            res.write("<p>Unable to collect data from body...</p>")
+                            res.end()
+                        }
+                    });
+                }
+                else if (req.url == "/delete"){
+                    collectRequestBodyData(req, result => {
+                        if(result){
+                            console.log(result)
+                            axios.delete("http://localhost:3000/tasks/"+ result.id)
+                            .catch(erro => {
+                                console.log("Erro: "+ erro)
+                                res.writeHead(201,{'Content-Type': 'text/html; charset=utf-8'})
+                                res.end("ERRO: "+ erro)
+                            })   
+                        }
+                        else{
+                            res.writeHead(201, {'Content-Type': 'text/html;charset=utf-8'})
+                            res.write("<p>Unable to collect data from body...</p>")
+                            res.end()
+                        }
+                    });
+                }
+                else if (req.url == "/complete"){
+                    collectRequestBodyData(req, task => {
+                        if(task){
+                            console.log(task)
+                            axios.put(`http://localhost:3000/tasks/${task.id}`,task)
+                            .catch(erro => {
+                                console.log("Erro: "+ erro)
+                                res.writeHead(201,{'Content-Type': 'text/html; charset=utf-8'})
+                                res.end("ERRO: "+ erro)
+                            })   
+                        }
+                        else{
+                            res.writeHead(201, {'Content-Type': 'text/html;charset=utf-8'})
+                            res.write("<p>Unable to collect data from body...</p>")
+                            res.end()
+                        }
+                    });
+                }
+                else if (req.url == "/edit"){
+                    collectRequestBodyData(req, task => {
+                        if(task){
+                            console.log(task)
+                            axios.put(`http://localhost:3000/tasks/${task.id}`,task)
+                            .catch(erro => {
+                                console.log("Erro: "+ erro)
+                                res.writeHead(201,{'Content-Type': 'text/html; charset=utf-8'})
+                                res.end("ERRO: "+ erro)
+                            })   
+                        }
+                        else{
+                            res.writeHead(201, {'Content-Type': 'text/html;charset=utf-8'})
+                            res.write("<p>Unable to collect data from body...</p>")
+                            res.end()
+                        }
+                    });
+                }
                 break
             }
             default: 
@@ -98,8 +138,9 @@ var toDoServer = http.createServer(function (req, res) {
     
 })
 
-toDoServer.listen(8080, ()=>{
-    console.log("Servidor à escuta na porta 8080...")
+port = 8080
+toDoServer.listen(port, ()=>{
+    console.log("Servidor à escuta na porta " +port+ "...")
 })
 
 

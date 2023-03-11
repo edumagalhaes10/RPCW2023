@@ -20,27 +20,24 @@ exports.toDoListPage = function(tasks){
     <body>
         <div class="w3-card-4">
             <header class="w3-container w3-green">
-                <h2>To Do List</h2>
+                <h1>To Do List</h1>
             </header>
             <br>
             <form class="w3-container" id="addTask" method="POST">
                 <fieldset>
                     <legend>Add Task</legend>
                     <label>Name</label>
-                    <input class="w3-input w3-round" type="text" name="name">
+                    <input class="w3-input w3-round" type="text" name="name" required>
                     <br>
                     <label>Deadline Date</label>
-                    <input class="w3-input w3-round" type="date" name="deadline">
+                    <input class="w3-input w3-round" type="date" name="deadline" required>
                     <br>
                     <label>Task Description</label>
-                    <input class="w3-input w3-round" type="text" name="description">
+                    <input class="w3-input w3-round" type="text" name="description" required>
                 </fieldset> 
                 <br/>
-                <button class="w3-btn w3-green w3-mb-2" type="submit" onclick="return validateForm()">Register</button>
-            </form>
-
-            <footer class="w3-container w3-green"></footer>
-        
+                <button class="w3-btn w3-green w3-mb-2" type="submit">Register</button>
+            </form> 
         </div>
 `
 
@@ -48,7 +45,7 @@ pagHTML += `
         <div>
         <div class = "w3-half"> 
         <div class="w3-container w3-center">
-            <h1 class="w3-grey w3-text-white">To Do Tasks</h1>
+            <h2 class="w3-grey w3-text-white">To Do Tasks</h2>
         </div>
 `
 for (let i = 0; i<toDo.length; i++){
@@ -58,12 +55,42 @@ for (let i = 0; i<toDo.length; i++){
                     <p><b>Name:</b> ${toDo[i].name}</p>
                     <p><b>Deadline Date:</b> ${toDo[i].deadline}</p>
                     <p><b>Task Description:</b> ${toDo[i].description}</p>
-                    <div class="w3-display-right">
-                        <button class="w3-button w3-grey w3-card-4">Edit</button>
-                        <button class="w3-button w3-grey w3-card-4">Delete</button>
-                        <button class="w3-button w3-grey w3-hover-green w3-card-4">Complete</button>
+                    <div class="w3-container w3-display-right">
+                        <button class="w3-button w3-grey w3-card-4" onclick="toggleAccordion(${toDo[i].id})">Edit</button>
+                        <button class="w3-button w3-grey w3-hover-red w3-card-4" type="submit" form="delete${toDo[i].id}">Delete</button>
+                        <button class="w3-button w3-grey w3-hover-green w3-card-4" type="submit" form="complete${toDo[i].id}">Complete</button>
+                        <form id="delete${toDo[i].id}" method="POST" action="delete">
+                            <input type="hidden" name="id" value="${toDo[i].id}">
+                        </form>
+                        <form id="complete${toDo[i].id}" method="POST" action="complete">
+                            <input type="hidden" name="id" value="${toDo[i].id}">
+                            <input type="hidden" name="name" value="${toDo[i].name}">
+                            <input type="hidden" name="deadline" value="${toDo[i].deadline}">
+                            <input type="hidden" name="description" value="${toDo[i].description}">
+                            <input type="hidden" name="done" value="yes">
+                        </form>
                     </div>
                 </div>
+
+                <div class="w3-accordion w3-card-4">
+                    <div id="accordion${toDo[i].id}" class="w3-accordion-content w3-hide">
+                          <form class="w3-container" method="POST" action="edit">
+                          <div class="w3-section">
+                            <h3><b>Edit Task</b></h3>
+                            <input type="hidden" value="${toDo[i].id}" name="id">
+                            <label><b>Name</b></label>
+                            <input class="w3-input w3-border" type="text" value="${toDo[i].name}" name="name">
+                            <label><b>Deadline Date</b></label>
+                            <input class="w3-input w3-border" type="date" value="${toDo[i].deadline}" name="deadline">
+                            <label><b>Task Description</b></label>
+                            <input class="w3-input w3-border" type="text" value="${toDo[i].description}" name="description">
+                            <input type="hidden" name="done" value="no">
+                            <button class="w3-button w3-block w3-green w3-section w3-padding" type="submit">Confirm</button>
+                          </div>
+                          </form>
+                    </div>
+                </div>
+
             </div>
     `
 }
@@ -75,7 +102,7 @@ pagHTML += `
         <div>
         <div class = "w3-half"> 
         <div class="w3-container w3-center">
-            <h1 class="w3-green">Done Tasks</h1>
+            <h2 class="w3-green">Done Tasks</h2>
         </div>
         `
 for (let i = 0; i<done.length; i++){
@@ -85,11 +112,34 @@ for (let i = 0; i<done.length; i++){
                     <p><b>Name:</b> ${done[i].name}</p>
                     <p><b>Deadline Date:</b> ${done[i].deadline}</p>
                     <p><b>Task Description:</b> ${done[i].description}</p>
-                    <div class="w3-display-right">
-                        <button class="w3-button w3-grey w3-card-4">Edit</button>
-                        <button class="w3-button w3-grey w3-card-4">Delete</button>
+                    <div class="w3-container w3-display-right">
+                        <button class="w3-button w3-grey w3-card-4" onclick="toggleAccordion(${done[i].id})">Edit</button>
+                        <button class="w3-button w3-grey w3-hover-red w3-card-4" type="submit" form="delete${done[i].id}">Delete</button>
+                        <form id="delete${done[i].id}" method="POST" action="delete">
+                            <input type="hidden" name="id" value="${done[i].id}">
+                        </form>
                     </div>
                 </div>
+
+                <div class="w3-accordion w3-card-4">
+                    <div id="accordion${done[i].id}" class="w3-accordion-content w3-hide">
+                          <form class="w3-container" method="POST" action="edit">
+                          <div class="w3-section">
+                            <h3><b>Edit Task</b></h3>
+                            <input type="hidden" value="${done[i].id}" name="id">
+                            <label><b>Name</b></label>
+                            <input class="w3-input w3-border" type="text" value="${done[i].name}" name="name">
+                            <label><b>Deadline Date</b></label>
+                            <input class="w3-input w3-border" type="date" value="${done[i].deadline}" name="deadline">
+                            <label><b>Task Description</b></label>
+                            <input class="w3-input w3-border" type="text" value="${done[i].description}" name="description">
+                            <input type="hidden" name="done" value="yes">
+                            <button class="w3-button w3-block w3-green w3-section w3-padding" type="submit">Confirm</button>
+                          </div>
+                          </form>
+                    </div>
+                </div>
+
             </div>
     `
 }
@@ -101,20 +151,18 @@ pagHTML += `
 
 pagHTML += `
         </div>
-        <script>
-        function validateForm() {
-            const form = document.getElementById('addTask');
-            const inputs = form.querySelectorAll('input');
 
-            for (let i = 0; i < inputs.length; i++) {
-              if (inputs[i].value === '') {
-                alert('Please fill in all fields');
-                return false;
-              }
+        <script>
+        function toggleAccordion(id) {
+            var x = document.getElementById('accordion' + id);
+            if (x.classList.contains('w3-hide')) {
+              x.classList.remove('w3-hide');
+            } else {
+              x.classList.add('w3-hide');
             }
-            return true;
-        }
+          }
         </script>
+
     </body>
 </html>
 `
