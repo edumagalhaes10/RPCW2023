@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifesto>
+    <meta>
+        <título>RPCW - TPC4</título>
+        <data>2023-03-12</data>
+        <autor>
+            <nome>Eduardo Costa de Magalhães</nome>
+            <id>PG50352</id>
+            <gitlink>https://github.com/edumagalhaes10/RPCW2023</gitlink>
+        </autor>
+        <uc>RPCW</uc>
+    </meta>
+    <resumo>
+        <p>O TPC desta semana consitia na criação de uma Single Page Application (SPA) para uma To Do List</p>
+        <p>A página deveria ter 3 áreas, uma área que contém um form para adicionar tarefas, outra área que apresenta as tarefas por fazer e, por fim, uma última área que contém as tarefas que já foram concluídas.</p>
+        <p>Foi adicionado a cada tarefa botões de editar e remover a mesma. Nas tarefas por fazer foi também adicionado um botão para completar a mesma.</p>        
+        <p>Os pedidos HTTP são tratados pelo servidor e efetuam pedidos à API de dados através do axios. Os dados da aplicação são armazenados num ficheiro json e são servidos através da utilização de json-server.</p>
+    </resumo>
+    <resultados>
+        <resultado path="tasks.json">Ficheiro json utilizado para armazenar os dados da aplicação.</resultado>
+        <resultado path="server.js">Servidor nodejs da Single Page Application (SPA).</resultado>
+        <resultado path="static.js">Módulo js utilizado para fornecer os recursos estáticos tais como o ficheiro css utilizado e o favicon.</resultado>
+        <resultado path="toDoListPage.js">Ficheiro js que gera a Single Page Application da To Do List.</resultado>
+    </resultados>
+</manifesto>

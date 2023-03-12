@@ -24,12 +24,7 @@ function serveStaticResource(req, res){
             else if(file == 'w3.css'){
                 res.setHeader('Content-Type', 'text/css')
                 res.end(dados)
-            }
-            // // PNG images
-            // else{
-            //     res.setHeader('Content-Type', 'image/png')
-            //     res.end(dados)
-            // }    
+            }  
         }
     })
 }
