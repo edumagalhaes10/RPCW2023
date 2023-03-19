@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifesto>
+    <meta>
+        <título>RPCW - TPC5</título>
+        <data>2023-03-19</data>
+        <autor>
+            <nome>Eduardo Costa de Magalhães</nome>
+            <id>PG50352</id>
+            <gitlink>https://github.com/edumagalhaes10/RPCW2023</gitlink>
+        </autor>
+        <uc>RPCW</uc>
+    </meta>
+    <resumo>
+        <p>O TPC desta semana consistia na recriação de uma Single Page Application (SPA) para uma To Do List desenvolvida no TPC4 utilizando a framework Express.</p>
+        <p>Todas as funcionalidades desenvolvidas permanecem iguais.</p>
+        <p>Foram criadas diversas views pug de modo a gerar dinamicamente a SPA solicitada para este TPC.</p>
+        <p>Foi necessário definir um controlador que utilizasse axios de modo a satisfazer as operações necessárias para o serviço.</p>
+        <p>Os pedidos HTTP são tratados no ficheiro <b>index.js</b> que se encontra na pasta <b>routes</b>.</p>
+        <p>Os dados da aplicação são armazenados num ficheiro json e são servidos através da utilização de json-server.</p>
+    </resumo>
+    <resultados>
+        <resultado path="tasks.json">Ficheiro json utilizado para armazenar os dados da aplicação.</resultado>
+        <resultado path="/controllers">Pasta que contém o controlador da SPA.</resultado>
+        <resultado path="/views">Pasta que contém os ficheiros pug para gerar a página HTML da nossa SPA.</resultado>
+        <resultado path="/routes/index.js">Ficheiro responsável por tratar os pedidos HTTP da aplicação.</resultado>
+    </resultados>
+</manifesto>
