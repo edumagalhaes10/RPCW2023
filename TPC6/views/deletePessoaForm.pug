@@ -1,0 +1,121 @@
+extends layout
+
+block content
+  .w3-card-4
+    header.w3-container.w3-teal
+      h1 Apagar Registo da Pessoa: #{p.id}
+
+    table.w3-table-all
+        tr 
+            td(style="width:5%")
+                img.w3-left.w3-circle(src="/images/avatar.jpg" alt="Avatar" width="100")
+                button.w3-btn.w3-round.w3-margin.w3-green
+                    a(href="/pessoas/delete/" + p.id + "/confirm") Confirm 
+                button.w3-btn.w3-round.w3-margin.w3-red
+                    a(href="/") Cancel 
+            td
+                .w3-container
+                    ul.w3-ul.w3-card-4
+                        li #[b Nome:] #{p.nome}
+                        li #[b Sexo:] #{p.sexo}
+                        li #[b Morada:]
+                            table.w3-table-all
+                                tr 
+                                  td 
+                                    b Cidade: 
+                                    | #{p.morada.cidade}
+                                tr 
+                                  td 
+                                    b Distrito: 
+                                    | #{p.morada.distrito}
+                        li #[b BI:] #{p.BI} 
+                        li #[b Profissão:] #{p.profissao} 
+                        li #[b Partido Político:]
+                            table.w3-table-all
+                                tr 
+                                  td 
+                                    b Abreviatura: 
+                                    | #{p.partido_politico.party_abbr}
+                                tr 
+                                  td 
+                                    b Nome: 
+                                    | #{p.partido_politico.party_name}
+                        li #[b Religião:] #{p.religiao} 
+                        li #[b Desportos:]
+                            each s in p.desportos
+                                table.w3-table-all
+                                    tr 
+                                      td= s
+                        li #[b Animais:]
+                            each s in p.animais
+                                table.w3-table-all
+                                    tr 
+                                      td= s
+                        li #[b Figuras Públicas:]
+                            each s in p.figura_publica_pt
+                                table.w3-table-all
+                                    tr 
+                                      td= s
+                        li #[b Marca Carro:] #{p.marca_carro} 
+                        li #[b Destinos Favoritos:]
+                            each s in p.destinos_favoritos
+                                table.w3-table-all
+                                    tr 
+                                        td= s
+                        li #[b Atributos:]
+                                table.w3-table-all
+                                    tr 
+                                        if p.atributos.fumador == true
+                                            td #[b Fumador:] &#9989;
+                                        else 
+                                            td #[b Fumador:] &#10060;
+                                    tr 
+                                        if p.atributos.gosta_cinema == true
+                                            td #[b Gosta de Cinema:] &#9989;
+                                        else 
+                                            td #[b Gosta de Cinema:] &#10060;
+                                    tr 
+                                        if p.atributos.gosta_viajar == true
+                                            td #[b Gosta de Viajar:] &#9989;
+                                        else 
+                                            td #[b Gosta de Viajar:] &#10060;
+                                    tr 
+                                        if p.atributos.acorda_cedo == true
+                                            td #[b Acorda Cedo:] &#9989;
+                                        else 
+                                            td #[b Acorda Cedo:] &#10060;
+                                    tr 
+                                        if p.atributos.gosta_ler == true
+                                            td #[b Gosta de Ler:] &#9989;
+                                        else 
+                                            td #[b Gosta de Ler:] &#10060;
+                                    tr 
+                                        if p.atributos.gosta_musica == true
+                                            td #[b Gosta de Música:] &#9989;
+                                        else 
+                                            td #[b Gosta de Música:] &#10060;
+                                    tr 
+                                        if p.atributos.gosta_comer == true
+                                            td #[b Gosta de Comer:] &#9989;
+                                        else 
+                                            td #[b Gosta de Comer:] &#10060;
+                                    tr 
+                                        if p.atributos.gosta_animais_estimacao == true
+                                            td #[b Gosta de Animais de Estimação:] &#9989;
+                                        else 
+                                            td #[b Gosta de Animais de Estimação:] &#10060;
+                                    tr 
+                                        if p.atributos.gosta_dancar == true
+                                            td #[b Gosta de Dançar:] &#9989;
+                                        else 
+                                            td #[b Gosta de Dançar:] &#10060;
+                                    tr 
+                                        td #[b Comida Favorita] #{p.atributos.comida_favorita}
+                                                
+                                                
+
+    footer.w3-container.w3-teal 
+      h5 Generated by RPCW2023 in #{d} - #[a(href="/") Return]
+
+
+
